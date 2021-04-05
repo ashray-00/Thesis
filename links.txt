@@ -1,0 +1,86 @@
+Clear underwater vision: https://ieeexplore.ieee.org/document/1315078
+
+A Underwater Image Enhanced Algorithm combined MSR and Channel Energy: https://ieeexplore.ieee.org/document/9061370
+
+Recovery of underwater visibility and structure by polarization analysis: https://ieeexplore.ieee.org/document/1593804
+
+Detection of interest points in turbid underwater images: https://ieeexplore.ieee.org/document/6003605
+
+Underwater image color correct in extremely poor visibility: https://ieeexplore.ieee.org/document/6741113
+
+Underwater image and video dehazing with pure haze region segmentation: https://uwe-repository.worktribe.com/output/862635/underwater-image-and-video-dehazing-with-pure-haze-region-segmentation
+
+A review on dark channel prior based image dehazing algorithms: https://jivp-eurasipjournals.springeropen.com/articles/10.1186/s13640-016-0104-y
+
+Single underwater image enhancement using depth estimation based on blurriness: https://ieeexplore.ieee.org/document/7351749
+
+Single image haze removal using improved dark channel prior: https://ieeexplore.ieee.org/document/6642199
+
+Underwater Image Enhancement Using an Integrated Colour Model: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.488.3932&rep=rep1&type=pdf
+
+Structure-Revealing Low-Light Image Enhancement Via Robust Retinex Model: https://ieeexplore.ieee.org/document/8304597
+
+Underwater Image Enhancement Using Adaptive Retinal Mechanisms: https://ieeexplore.ieee.org/document/8733992/citations?tabFilter=papers#citations
+
+Emerging From Water: Underwater Image Color Correction Based on Weakly Supervised Color Transfer: https://ieeexplore.ieee.org/document/8253820
+
+Low Complexity Underwater Image Enhancement Based on Dark Channel Prior: https://ieeexplore.ieee.org/document/6118812
+
+Underwater image enhancement by wavelet based fusion: https://ieeexplore.ieee.org/document/7893927
+
+Optimized Weight Maps and Fusion for Underwater Image Enhancement: https://ieeexplore.ieee.org/document/9001568
+
+Multi-Scale Gradient Domain Underwater Image Enhancement: https://ieeexplore.ieee.org/document/8559180
+
+Underwater Image Enhancement by Dehazing With Minimum Information Loss and Histogram Distribution Prior: https://ieeexplore.ieee.org/document/7574330
+
+Underwater scene enhancement using weighted guided median filter: https://ieeexplore.ieee.org/document/6890157
+
+Fusion-based underwater image enhancement by wavelet decomposition: https://ieeexplore.ieee.org/document/7915500
+
+Underwater Image Enhancement by Wavelength Compensation and Dehazing: https://ieeexplore.ieee.org/document/6104148
+
+Underwater image enhancement using guided trigonometric bilateral filter and fast automatic color correction: https://ieeexplore.ieee.org/document/6738704
+
+Underwater image enhancement by attenuation inversionwith quaternions: https://ieeexplore.ieee.org/document/4959799
+
+Learning-based underwater image enhancement with adaptive color mapping: https://ieeexplore.ieee.org/document/7306031
+
+Fast Underwater Image Enhancement for Improved Visual Perception: https://ieeexplore.ieee.org/document/9001231
+
+A Two-Step Approach for Underwater Image Enhancement: https://ieeexplore.ieee.org/document/8446772
+
+An Improved Approach for Underwater Image Enhancement Through Color Correction, Contrast Synthesis and Dehazing: https://ieeexplore.ieee.org/document/9036611
+
+A Novel Two-Step Strategy Based on White-Balancing and Fusion for Underwater Image Enhancement: https://ieeexplore.ieee.org/document/9270025
+
+Underwater image enhancement based on structure-texture decomposition: https://ieeexplore.ieee.org/document/8296473
+
+An Experimental-Based Review of Image Enhancement and Image Restoration Methods for Underwater Imaging: https://ieeexplore.ieee.org/document/8782094
+
+A Semi-Global Color Correction for Underwater ImageRestoration: https://dl.acm.org/doi/epdf/10.1145/3102163.3102237
+
+Color Balance and Fusion for Underwater Image Enhancement: https://ieeexplore.ieee.org/document/8058463
+
+Underwater Image Restoration Using Color-Line Model: https://ieeexplore.ieee.org/document/8556079
+
+
+Image Enhancement:
+Hue-Preserving Color Image Enhancement on a Vector Space of Convex Combination Coefficients: https://ieeexplore.ieee.org/document/8803035
+
+A low-light image enhancement method for both denoising and contrast enlarging: https://ieeexplore.ieee.org/document/7351501
+
+Reference image based method of region of interest enhancement for haze image: https://ieeexplore.ieee.org/document/7350896
+
+Image enhancement method via blur and noisy image fusion: https://ieeexplore.ieee.org/document/5413626
+
+
+Underwater vision
+Underwater Exploration Issues, Deep Study on Optical Underwater Vision for an Effective Traditional Fishing: https://dl.acm.org/doi/epdf/10.1145/3369973.3369981
+
+A Survey on Underwater Image Enhancement Techniques: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.429.1259&rep=rep1&type=pdf
+
+Underwater Optical Image Processing: a Comprehensive Review: https://link.springer.com/article/10.1007/s11036-017-0863-4
+
+Underwater Quality Evaluation Metric
+An Underwater Color Image Quality Evaluation Metric: https://ieeexplore.ieee.org/document/7300447

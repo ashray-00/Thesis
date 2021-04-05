@@ -1,0 +1,464 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{nty/global//global/global}
+  \entry{13}{article}{}
+    \name{author}{2}{}{%
+      {{hash=CJY}{%
+         family={{Chiang}},
+         familyi={C\bibinitperiod},
+         given={J.\bibnamedelima Y.},
+         giveni={J\bibinitperiod\bibinitdelim Y\bibinitperiod},
+      }}%
+      {{hash=CY}{%
+         family={{Chen}},
+         familyi={C\bibinitperiod},
+         given={Y.},
+         giveni={Y\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CJYCY1}
+    \strng{fullhash}{CJYCY1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \verb{doi}
+    \verb 10.1109/TIP.2011.2179666
+    \endverb
+    \field{number}{4}
+    \field{pages}{1756\bibrangedash 1769}
+    \field{title}{Underwater Image Enhancement by Wavelength Compensation and
+  Dehazing}
+    \field{volume}{21}
+    \field{journaltitle}{IEEE Transactions on Image Processing}
+    \field{year}{2012}
+  \endentry
+
+  \entry{2}{article}{}
+    \name{author}{3}{}{%
+      {{hash=ES}{%
+         family={Emberton},
+         familyi={E\bibinitperiod},
+         given={Simon},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=CL}{%
+         family={Chittka},
+         familyi={C\bibinitperiod},
+         given={Lars},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=CA}{%
+         family={Cavallaro},
+         familyi={C\bibinitperiod},
+         given={Andrea},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Elsevier}%
+    }
+    \strng{namehash}{ESCLCA1}
+    \strng{fullhash}{ESCLCA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{E}
+    \field{sortinithash}{E}
+    \verb{doi}
+    \verb 10.1016/j.cviu.2017.08.003
+    \endverb
+    \field{issn}{1077-3142}
+    \field{pages}{145\bibrangedash 156}
+    \field{title}{Underwater image and video dehazing with pure haze region
+  segmentation}
+    \verb{url}
+    \verb https://uwe-repository.worktribe.com/output/862635
+    \endverb
+    \field{volume}{168}
+    \field{journaltitle}{Computer Vision and Image Understanding}
+    \field{year}{2018}
+  \endentry
+
+  \entry{6}{article}{}
+    \name{author}{5}{}{%
+      {{hash=GSB}{%
+         family={{Gao}},
+         familyi={G\bibinitperiod},
+         given={S.\bibnamedelima B.},
+         giveni={S\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+      {{hash=ZM}{%
+         family={{Zhang}},
+         familyi={Z\bibinitperiod},
+         given={M.},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=ZQ}{%
+         family={{Zhao}},
+         familyi={Z\bibinitperiod},
+         given={Q.},
+         giveni={Q\bibinitperiod},
+      }}%
+      {{hash=ZXS}{%
+         family={{Zhang}},
+         familyi={Z\bibinitperiod},
+         given={X.\bibnamedelima S.},
+         giveni={X\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=LYJ}{%
+         family={{Li}},
+         familyi={L\bibinitperiod},
+         given={Y.\bibnamedelima J.},
+         giveni={Y\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{GSB+1}
+    \strng{fullhash}{GSBZMZQZXSLYJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \verb{doi}
+    \verb 10.1109/TIP.2019.2919947
+    \endverb
+    \field{number}{11}
+    \field{pages}{5580\bibrangedash 5595}
+    \field{title}{Underwater Image Enhancement Using Adaptive Retinal
+  Mechanisms}
+    \field{volume}{28}
+    \field{journaltitle}{IEEE Transactions on Image Processing}
+    \field{year}{2019}
+  \endentry
+
+  \entry{4}{article}{}
+    \name{author}{4}{}{%
+      {{hash=IK}{%
+         family={Iqbal},
+         familyi={I\bibinitperiod},
+         given={Kashif},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=SRA}{%
+         family={Salam},
+         familyi={S\bibinitperiod},
+         given={Rosalina\bibnamedelima Abdul},
+         giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=OA}{%
+         family={Osman},
+         familyi={O\bibinitperiod},
+         given={Azam},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=TAZ}{%
+         family={Talib},
+         familyi={T\bibinitperiod},
+         given={Abdullah\bibnamedelima Zawawi},
+         giveni={A\bibinitperiod\bibinitdelim Z\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{IK+1}
+    \strng{fullhash}{IKSRAOATAZ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{I}
+    \field{sortinithash}{I}
+    \field{pages}{239\bibrangedash 244}
+    \field{title}{Underwater image enhancement using an integrated colour
+  model}
+    \field{journaltitle}{International Journal Of Computer Science}
+    \field{year}{2007}
+  \endentry
+
+  \entry{21}{article}{}
+    \name{author}{5}{}{%
+      {{hash=LC}{%
+         family={{Li}},
+         familyi={L\bibinitperiod},
+         given={C.},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=GJ}{%
+         family={{Guo}},
+         familyi={G\bibinitperiod},
+         given={J.},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=CR}{%
+         family={{Cong}},
+         familyi={C\bibinitperiod},
+         given={R.},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=PY}{%
+         family={{Pang}},
+         familyi={P\bibinitperiod},
+         given={Y.},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=WB}{%
+         family={{Wang}},
+         familyi={W\bibinitperiod},
+         given={B.},
+         giveni={B\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LC+1}
+    \strng{fullhash}{LCGJCRPYWB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \verb{doi}
+    \verb 10.1109/TIP.2016.2612882
+    \endverb
+    \field{number}{12}
+    \field{pages}{5664\bibrangedash 5677}
+    \field{title}{Underwater Image Enhancement by Dehazing With Minimum
+  Information Loss and Histogram Distribution Prior}
+    \field{volume}{25}
+    \field{journaltitle}{IEEE Transactions on Image Processing}
+    \field{year}{2016}
+  \endentry
+
+  \entry{11}{inproceedings}{}
+    \name{author}{5}{}{%
+      {{hash=MZ}{%
+         family={{Mi}},
+         familyi={M\bibinitperiod},
+         given={Z.},
+         giveni={Z\bibinitperiod},
+      }}%
+      {{hash=LZ}{%
+         family={{Liang}},
+         familyi={L\bibinitperiod},
+         given={Z.},
+         giveni={Z\bibinitperiod},
+      }}%
+      {{hash=WY}{%
+         family={{Wang}},
+         familyi={W\bibinitperiod},
+         given={Y.},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=FX}{%
+         family={{Fu}},
+         familyi={F\bibinitperiod},
+         given={X.},
+         giveni={X\bibinitperiod},
+      }}%
+      {{hash=CZ}{%
+         family={{Chen}},
+         familyi={C\bibinitperiod},
+         given={Z.},
+         giveni={Z\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MZ+1}
+    \strng{fullhash}{MZLZWYFXCZ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{booktitle}{2018 OCEANS - MTS/IEEE Kobe Techno-Oceans (OTO)}
+    \verb{doi}
+    \verb 10.1109/OCEANSKOBE.2018.8559180
+    \endverb
+    \field{pages}{1\bibrangedash 5}
+    \field{title}{Multi-Scale Gradient Domain Underwater Image Enhancement}
+    \field{year}{2018}
+  \endentry
+
+  \entry{3}{inproceedings}{}
+    \name{author}{3}{}{%
+      {{hash=PY}{%
+         family={{Peng}},
+         familyi={P\bibinitperiod},
+         given={Y.},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=ZX}{%
+         family={{Zhao}},
+         familyi={Z\bibinitperiod},
+         given={X.},
+         giveni={X\bibinitperiod},
+      }}%
+      {{hash=CPC}{%
+         family={{Cosman}},
+         familyi={C\bibinitperiod},
+         given={P.\bibnamedelima C.},
+         giveni={P\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{PYZXCPC1}
+    \strng{fullhash}{PYZXCPC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \field{booktitle}{2015 IEEE International Conference on Image Processing
+  (ICIP)}
+    \verb{doi}
+    \verb 10.1109/ICIP.2015.7351749
+    \endverb
+    \field{pages}{4952\bibrangedash 4956}
+    \field{title}{Single underwater image enhancement using depth estimation
+  based on blurriness}
+    \field{year}{2015}
+  \endentry
+
+  \entry{15}{article}{}
+    \name{author}{6}{}{%
+      {{hash=WY}{%
+         family={{Wang}},
+         familyi={W\bibinitperiod},
+         given={Y.},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=SW}{%
+         family={{Song}},
+         familyi={S\bibinitperiod},
+         given={W.},
+         giveni={W\bibinitperiod},
+      }}%
+      {{hash=FG}{%
+         family={{Fortino}},
+         familyi={F\bibinitperiod},
+         given={G.},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=QL}{%
+         family={{Qi}},
+         familyi={Q\bibinitperiod},
+         given={L.},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=ZW}{%
+         family={{Zhang}},
+         familyi={Z\bibinitperiod},
+         given={W.},
+         giveni={W\bibinitperiod},
+      }}%
+      {{hash=LA}{%
+         family={{Liotta}},
+         familyi={L\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{WY+1}
+    \strng{fullhash}{WYSWFGQLZWLA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \verb{doi}
+    \verb 10.1109/ACCESS.2019.2932130
+    \endverb
+    \field{pages}{140233\bibrangedash 140251}
+    \field{title}{An Experimental-Based Review of Image Enhancement and Image
+  Restoration Methods for Underwater Imaging}
+    \field{volume}{7}
+    \field{journaltitle}{IEEE Access}
+    \field{year}{2019}
+  \endentry
+
+  \entry{8}{inproceedings}{}
+    \name{author}{5}{}{%
+      {{hash=YH}{%
+         family={{Yang}},
+         familyi={Y\bibinitperiod},
+         given={H.},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=CP}{%
+         family={{Chen}},
+         familyi={C\bibinitperiod},
+         given={P.},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=HC}{%
+         family={{Huang}},
+         familyi={H\bibinitperiod},
+         given={C.},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=ZY}{%
+         family={{Zhuang}},
+         familyi={Z\bibinitperiod},
+         given={Y.},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=SY}{%
+         family={{Shiau}},
+         familyi={S\bibinitperiod},
+         given={Y.},
+         giveni={Y\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{YH+1}
+    \strng{fullhash}{YHCPHCZYSY1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{Y}
+    \field{sortinithash}{Y}
+    \field{booktitle}{2011 Second International Conference on Innovations in
+  Bio-inspired Computing and Applications}
+    \verb{doi}
+    \verb 10.1109/IBICA.2011.9
+    \endverb
+    \field{pages}{17\bibrangedash 20}
+    \field{title}{Low Complexity Underwater Image Enhancement Based on Dark
+  Channel Prior}
+    \field{year}{2011}
+  \endentry
+
+  \entry{20}{inproceedings}{}
+    \name{author}{2}{}{%
+      {{hash=YY}{%
+         family={{Yang}},
+         familyi={Y\bibinitperiod},
+         given={Y.},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=XX}{%
+         family={{Xu}},
+         familyi={X\bibinitperiod},
+         given={X.},
+         giveni={X\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{YYXX1}
+    \strng{fullhash}{YYXX1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{Y}
+    \field{sortinithash}{Y}
+    \field{booktitle}{2020 22nd International Conference on Advanced
+  Communication Technology (ICACT)}
+    \verb{doi}
+    \verb 10.23919/ICACT48636.2020.9061370
+    \endverb
+    \field{pages}{348\bibrangedash 349}
+    \field{title}{A Underwater Image Enhanced Algorithm combined MSR and
+  Channel Energy}
+    \field{year}{2020}
+  \endentry
+\enddatalist
+\endinput

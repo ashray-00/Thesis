@@ -1,0 +1,181 @@
+\documentclass[a4paper,11pt,oneside]{article}
+
+\usepackage[utf8]{inputenc}
+\usepackage[a4paper,top=3cm,bottom=3cm,left=3cm,right=3cm]{geometry}
+\renewcommand{\familydefault}{\sfdefault}
+\usepackage{helvet}
+\usepackage[english]{babel}     %% typographie française
+\usepackage[style=numeric,language=english,backend=bibtex]{biblatex}
+\usepackage{parskip}		%% blank lines between paragraphs, no indent
+\usepackage[margin=1cm]{caption}%% give long captions a margin
+\usepackage{booktabs}           %% typesetting nice tables
+\usepackage[pdftex]{graphicx}	%% include graphics, preferrably pdf
+\usepackage[pdftex]{hyperref}	%% many PDF options can be set here
+\pdfadjustspacing=1		%% force LaTeX-like character spacing
+
+\newcommand{\myname}{Ashray Adhikari}
+\newcommand{\mytitle}{Underwater Image Enhancements}
+\newcommand{\mysupervisor}{Prof. Andreas Birk}
+
+\hypersetup{
+  pdfauthor = {\myname},
+  pdftitle = {\mytitle},
+  pdfkeywords = {},
+  colorlinks = {true},
+  linkcolor = {blue}
+}
+
+\addbibresource{references.bib}
+
+\begin{document}
+  \pagenumbering{roman}
+
+  \thispagestyle{empty}
+
+  \begin{flushright}
+    \includegraphics[scale=0.8]{bsc-logo}
+  \end{flushright}
+  \vspace*{40mm}
+  \begin{center}
+    \huge
+    \textbf{\mytitle}
+  \end{center}
+  \vspace*{4mm}
+  \begin{center}
+   \Large by
+  \end{center}
+  \vspace*{4mm}
+  \begin{center}
+    \LARGE
+    \textbf{\myname}
+  \end{center}
+  \vspace*{20mm}
+  \begin{center}
+    \Large
+    Bachelor Thesis in Computer Science
+  \end{center}
+  \vfill
+  \begin{flushleft}
+    \large
+    Submission: \today \hfill Supervisor: \mysupervisor \\
+    \rule{\textwidth}{1pt}
+  \end{flushleft}
+  \begin{center}
+    Jacobs University Bremen $|$ Department of Computer Science and Electrical Engineering
+  \end{center}
+
+  \newpage
+  \thispagestyle{empty}
+
+\subsection*{English: Declaration of Authorship}
+ 
+  I hereby declare that the thesis submitted was created and written
+  solely by myself without any external support. Any sources, direct
+  or indirect, are marked as such. I am aware of the fact that the
+  contents of the thesis in digital form may be revised with regard to
+  usage of unauthorized aid as well as whether the whole or parts of
+  it may be identified as plagiarism. I do agree my work to be entered
+  into a database for it to be compared with existing sources, where
+  it will remain in order to enable further comparisons with future
+  theses. This does not grant any rights of reproduction and usage,
+  however.
+
+  This document was neither presented to any other examination board
+  nor has it been published.
+
+  \subsection*{German: Erklärung der Autorenschaft (Urheberschaft)}
+ 
+  Ich erkläre hiermit, dass die vorliegende Arbeit ohne fremde Hilfe
+  ausschließlich von mir erstellt und geschrieben worden ist. Jedwede
+  verwendeten Quellen, direkter oder indirekter Art, sind als solche
+  kenntlich gemacht worden. Mir ist die Tatsache bewusst, dass der
+  Inhalt der Thesis in digitaler Form geprüft werden kann im Hinblick
+  darauf, ob es sich ganz oder in Teilen um ein Plagiat handelt. Ich
+  bin damit einverstanden, dass meine Arbeit in einer Datenbank
+  eingegeben werden kann, um mit bereits bestehenden Quellen
+  verglichen zu werden und dort auch verbleibt, um mit zukünftigen
+  Arbeiten verglichen werden zu können. Dies berechtigt jedoch nicht
+  zur Verwendung oder Vervielfältigung.
+
+  Diese Arbeit wurde noch keiner anderen Prüfungsbehörde vorgelegt
+  noch wurde sie bisher veröffentlicht.
+
+  \vspace{20mm}
+
+  Date, Signature
+
+  \newpage
+  \tableofcontents
+
+  \clearpage
+  \pagenumbering{arabic}
+
+  \section{Introduction}
+
+  %This, like the rest, addresses fellow experts from your field (but
+  %not from your particular topic of research). Here you should
+  %technically connect to the main concepts from that field and give an
+  %outline of your project, stating the research/engineering question
+  %that you want to get answered by your project.
+
+  %(target size: 1-2 pages)
+  
+  Researchers today strive to capture high-quality underwater images for various Underwater activities \cite{15} but, Underwater imaging is a challenging field in computer vision research as opposed to land photography. Many physical and chemical characteristics of Underwater conditions raise issues that we can easily overcome in land photography \cite{15}.\\
+  \\
+  Underwater imaging raises new challenges and problems due to the absorption and scattering effects of light underwater. This generates low-contrast images and causes distant objects to appear blurry and misty \cite{3}. As light moves from air to water, it is partly reflected, and the amount of light entering reduces as we start going deeper. So, Underwater images appear dark as depth increases and the colors drop off one by one depending on the wavelength \cite{4}. Due to the varying degrees of attenuation encountered by the light traveling in water with different wavelengths, the ambient underwater environment is dominated by a bluish tone \cite{20}.\\
+  The light received by the camera is mainly generated by a direct component that reflects light from the object, forward scattering that randomly deviates light on its way to the camera, and the backscattering component that reflects light toward the camera before the light reaches the objects \cite{21}. In an underwater scene light accepted through a camera can be represented as a linear superposition of all three components.  So, forward scattering causes the blurring on the image, and the backscattering masks the details of the scene \cite{21}.\\
+  \\
+  Besides the absorption and scattering effects of light by the water, the quality of water also influences the quality of underwater images. The presence of suspended particles with significant size and density in the medium also causes light to be scattered and absorbed \cite{8}. Haze is caused by the suspended particles such as sand, minerals, and plankton that exist in the water body. Some portion of the light meets these suspended particles as light reflected from the object propagates towards the camera \cite{13}.\\
+  \\
+  Due to certain challenging underwater conditions, traditional enhancing techniques appear to be strongly limited for Underwater Images. Traditional image restoration methods use an atmospheric scattering model to restore underwater images\cite{11} and underwater conditions are considered similar to dense fog on land, but unlike fog, underwater illumination is spectrally deprived as water attenuates different wavelengths of light to different degrees \cite{2}. Applying conventional color correction methods designed for terrestrial environments on Underwater images will lead to undesired artifacts since the red component of the Underwater image is much weaker than the green and blue components \cite{6}.\\
+  \\
+  In this document, we test the effects and analyze both quantitatively and qualitatively the result of different machine vision methods for Underwater Image Enhancement on images extracted from Underwater videos of the Valentine memorial. The rest of the document is structured as follows. Section \hyperref[sec:2]{2} gives an overview of Underwater Image Enhancement methods and discusses related works. Section \hyperref[sec:3]{3} goes in-depth on some Underwater Image Enhancement methods. Section \hyperref[sec:4]{4} showcases the results and analysis of the effects of different methods on the extracted images. Section \hyperref[sec:5]{5} provides the summary of the project and further discussions.  
+
+ 
+
+  \section{Statement and Motivation of Research}
+  \label{sec:2}
+
+  This part should make clear which question, exactly, you are
+  pursuing, and why your project is relevant/interesting. This is the
+  place to explain the background and to review the existing
+  literature. Where does your project extend the state of the art?
+  What weaknesses in known approaches do you hope to overcome? If you
+  have carried out preliminary experiments, describe them here.
+
+  (target size: 5-10 pages)
+
+  \section{Description of the Investigation}
+  \label{sec:3}
+  This is the technical core of the thesis. Here you lay out your how
+  you answered your research question, you specify your design of
+  experiments or simulations, point out difficulties that you
+  encountered, etc.
+
+  (target size: 5-10 pages)
+  
+  \section{Evaluation of the Investigation}
+  \label{sec:4}
+
+  This section discusses criteria that are used to evaluate the
+  research results. Make sure your results can be used to published
+  research results, i.e., to the already known state-of-the-art.
+
+  (target size: 5-10 pages)
+
+
+\section{Conclusions}
+\label{sec:5}
+
+  Summarize the main aspects and results of the research
+  project. Provide an answer to the research questions stated earlier.
+
+  (target size: 1/2 page)
+  
+  \newpage
+  
+  %\bibliographystyle{unsrt} 
+  %\bibliography{bsc-sample}
+  \printbibliography
+  
+\end{document}
