@@ -3,10 +3,10 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {1}Introduction}{1}{section.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2}Statement and Motivation of Research}{2}{section.2}%
+\contentsline {section}{\numberline {2}Discussion of Related Work}{2}{section.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3}Description of the Investigation}{2}{section.3}%
+\contentsline {section}{\numberline {3}Description of the Investigation}{3}{section.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4}Evaluation of the Investigation}{2}{section.4}%
+\contentsline {section}{\numberline {4}Evaluation of the Investigation}{3}{section.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5}Conclusions}{2}{section.5}%
+\contentsline {section}{\numberline {5}Conclusions}{3}{section.5}%

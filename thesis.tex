@@ -133,18 +133,29 @@
 
  
 
-  \section{Statement and Motivation of Research}
+  \section{Discussion of Related Work}
   \label{sec:2}
 
-  This part should make clear which question, exactly, you are
-  pursuing, and why your project is relevant/interesting. This is the
-  place to explain the background and to review the existing
-  literature. Where does your project extend the state of the art?
-  What weaknesses in known approaches do you hope to overcome? If you
-  have carried out preliminary experiments, describe them here.
+  %This part should make clear which question, exactly, you are
+  %pursuing, and why your project is relevant/interesting. This is the
+  %place to explain the background and to review the existing
+  %literature. Where does your project extend the state of the art?
+  %What weaknesses in known approaches do you hope to overcome? If you
+  %have carried out preliminary experiments, describe them here.
 
-  (target size: 5-10 pages)
-
+  %(target size: 5-10 pages)
+  Over the years several methods have been specifically designed according to the characteristics of underwater image eg, hazing, color casts and low contrast \cite{15}. In this section we will discuss different physics based, color correction, haze removal, fusion based and CNN-based Underwater Image Enhancements and Restoration methods.\\
+  \\
+  In a Physics-based approach for recovery of visibility in Underwater scenes raw images taken through different states of a polarizing filter. In 2004 Schechner \cite{19} proposed a physics based approach that inverts the image formation process, to recover a good visibility image of the object. The algorithm presented were based on images taken through a polarizer at different orientations. But, The physics based methods require high computing resources and long excution time and furthermore, the polarizer used in the approach is expensive \cite{8}. We will not consider the physics-based method for our analysis.\\
+  \\
+  In recent years many studies have proved the effectiveness of deep-learning methods for various computer vison tasks. But, very few of them have been effective in underwater image enhancement. In 2017, Perez \cite{22} proposed a CNN-based Underwater Image Enhancement method, that uses a convolution neural network to learn the transformation from raw acquired images to enhanced image using a pairs of degraded and recovered underwater images images \cite{15}. Then in 2018 Li \cite{23} proposed WaterGAN, a generative adversarial network for generating synthetic realistic underwater images from in-air image and depth maps, where the raw underwater, true color-in air and the depth data were used to feed a deep learning network for correcting color casts in underwater images \cite{15}. To relax the need for paired underwater images for network training and allow use of unknown underwater images Li \cite{7} proposed a Underwater Image Correction model based on a Weakly Supervised Color Transfer \cite{15}. In this method first, a color correction algorithm is applied to correct the color cast and produce a natural appearence of the sub-sea image and then a pair of dictionaries based on sparse representation are applied to sharpen the image and enhance the details \cite{7}. Even though Deep Learning based Underwater Enhancement method have in some extent proven to be effective in enhancing underwater images, we will not use the CNN-based model to enhance the extracted images from the Valentine mermorial due to the lack of data required to train the model.\\
+  \\
+  Classic Retinex theory assumes that the images can be decomposed into two components, reflectance and illumination. But, the classic Retinex model is not suited for low-light image enhancement-problem, as intensive noise exists in low-light images \cite{5}. In 2018 Li \cite{5} proposed an Structural Revealing Image Enhancement Algorithm Using a Robust Retinex Model. This method proposed a Robust Retinex, which aditionally considers a noise map compared to the conventional retinex model to improve the performance of enhancing low-light images accompanied by intense noise \cite{5}. Even though this method was not made for underwater conditions it can be generalized to handle Underwater Image Enhancements \cite{5}.\\
+  In 2019 Gao \cite{6} proposed a Underwater Image Enhancemnt model inspired by the morphology and function of the teleost fish retina to solve the blurring and non-uniform color biasing problem of underwater images. The motivation behind this approach, is that the visual system of the oceanic creatures have evolved to adapt to the natural statistics of aquatic scenes \cite{6}. So, modeling the perception and imaging mechanisms of the oceanic creatures will give us new insights to processing Underwater images \cite{6}.\\
+  \\
+  Wavelet decomposition algorithm decompose the original image into a sequence of new images of decreasing size \cite{24}. In 2016 A. Khan \cite{9} proposed a wavelet based fusion method to enhance hazy underwater images by addressing low contrast and color attenuation issues. Two input images are generated from the hazy image by color correction using histogram stretching and contrast enhancement using contrast limited adaptive histogram equalization (CLAHE). Both input images are decomposed into wavelet coefficient and the coefficient are fused using algorithm that eliminates unwanted low and high frequency present in the image. Finally, the inverse composition is applied to the fused coefficient to get a synthesised enhanced image. \cite{9}\\
+  In 2017 Wang \cite{12} proposed a different fusion based model applied to frequency domain. It involves 2 inputs represented as a color corrected and contrast enhanced images extracted from the original Underwater Image.  
+  
   \section{Description of the Investigation}
   \label{sec:3}
   This is the technical core of the thesis. Here you lay out your how
