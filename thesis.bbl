@@ -17,6 +17,50 @@
 \endgroup
 
 \datalist[entry]{nty/global//global/global}
+  \entry{16}{article}{}
+    \name{author}{4}{}{%
+      {{hash=ACO}{%
+         family={{Ancuti}},
+         familyi={A\bibinitperiod},
+         given={C.\bibnamedelima O.},
+         giveni={C\bibinitperiod\bibinitdelim O\bibinitperiod},
+      }}%
+      {{hash=AC}{%
+         family={{Ancuti}},
+         familyi={A\bibinitperiod},
+         given={C.},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=DC}{%
+         family={{De Vleeschouwer}},
+         familyi={D\bibinitperiod},
+         given={C.},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=BP}{%
+         family={{Bekaert}},
+         familyi={B\bibinitperiod},
+         given={P.},
+         giveni={P\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{ACO+1}
+    \strng{fullhash}{ACOACDCBP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \verb{doi}
+    \verb 10.1109/TIP.2017.2759252
+    \endverb
+    \field{number}{1}
+    \field{pages}{379\bibrangedash 393}
+    \field{title}{Color Balance and Fusion for Underwater Image Enhancement}
+    \field{volume}{27}
+    \field{journaltitle}{IEEE Transactions on Image Processing}
+    \field{year}{2018}
+  \endentry
+
   \entry{13}{article}{}
     \name{author}{2}{}{%
       {{hash=CJY}{%
@@ -93,6 +137,44 @@
     \field{volume}{168}
     \field{journaltitle}{Computer Vision and Image Understanding}
     \field{year}{2018}
+  \endentry
+
+  \entry{14}{inproceedings}{}
+    \name{author}{3}{}{%
+      {{hash=FF}{%
+         family={{Farhadifard}},
+         familyi={F\bibinitperiod},
+         given={F.},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=ZZ}{%
+         family={{Zhou}},
+         familyi={Z\bibinitperiod},
+         given={Z.},
+         giveni={Z\bibinitperiod},
+      }}%
+      {{hash=vUF}{%
+         family={{von Lukas}},
+         familyi={v\bibinitperiod},
+         given={U.\bibnamedelima F.},
+         giveni={U\bibinitperiod\bibinitdelim F\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{FFZZvUF1}
+    \strng{fullhash}{FFZZvUF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \field{booktitle}{2015 9th International Symposium on Image and Signal
+  Processing and Analysis (ISPA)}
+    \verb{doi}
+    \verb 10.1109/ISPA.2015.7306031
+    \endverb
+    \field{pages}{48\bibrangedash 53}
+    \field{title}{Learning-based underwater image enhancement with adaptive
+  color mapping}
+    \field{year}{2015}
   \endentry
 
   \entry{6}{article}{}
@@ -420,6 +502,34 @@
     \field{volume}{27}
     \field{journaltitle}{IEEE Transactions on Image Processing}
     \field{year}{2018}
+  \endentry
+
+  \entry{25}{inproceedings}{}
+    \name{author}{2}{}{%
+      {{hash=L}{%
+         family={{Liu Chao}},
+         familyi={L\bibinitperiod},
+      }}%
+      {{hash=M}{%
+         family={{Meng Wang}},
+         familyi={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LM1}
+    \strng{fullhash}{LM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \field{booktitle}{2010 2nd International Conference on Computer Engineering
+  and Technology}
+    \verb{doi}
+    \verb 10.1109/ICCET.2010.5485339
+    \endverb
+    \field{pages}{V2\bibrangedash 35\bibrangedash V2\bibrangedash 39}
+    \field{title}{Removal of water scattering}
+    \field{volume}{2}
+    \field{year}{2010}
   \endentry
 
   \entry{11}{inproceedings}{}
