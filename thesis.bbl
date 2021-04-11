@@ -61,6 +61,40 @@
     \field{year}{2018}
   \endentry
 
+  \entry{1}{inproceedings}{}
+    \name{author}{4}{}{%
+      {{hash=B}{%
+         family={{Beilei Hu}},
+         familyi={B\bibinitperiod},
+      }}%
+      {{hash=B}{%
+         family={{Bing Zheng}},
+         familyi={B\bibinitperiod},
+      }}%
+      {{hash=Y}{%
+         family={{Yu Yang}},
+         familyi={Y\bibinitperiod},
+      }}%
+      {{hash=Y}{%
+         family={{Yanan Wen}},
+         familyi={Y\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{B+1}
+    \strng{fullhash}{BBYY1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{booktitle}{2013 OCEANS - San Diego}
+    \verb{doi}
+    \verb 10.23919/OCEANS.2013.6741113
+    \endverb
+    \field{pages}{1\bibrangedash 4}
+    \field{title}{Underwater image color correct in extremely poor visibility}
+    \field{year}{2013}
+  \endentry
+
   \entry{13}{article}{}
     \name{author}{2}{}{%
       {{hash=CJY}{%
@@ -226,6 +260,44 @@
     \field{volume}{28}
     \field{journaltitle}{IEEE Transactions on Image Processing}
     \field{year}{2019}
+  \endentry
+
+  \entry{10}{inproceedings}{}
+    \name{author}{3}{}{%
+      {{hash=HP}{%
+         family={{Honnutagi}},
+         familyi={H\bibinitperiod},
+         given={P.},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=MVD}{%
+         family={{Mytri}},
+         familyi={M\bibinitperiod},
+         given={V.\bibnamedelima D.},
+         giveni={V\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+      {{hash=LYS}{%
+         family={{Lalitha}},
+         familyi={L\bibinitperiod},
+         given={Y.\bibnamedelima S.},
+         giveni={Y\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HPMVDLYS1}
+    \strng{fullhash}{HPMVDLYS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{booktitle}{2018 International Conference on Electrical, Electronics,
+  Communication, Computer, and Optimization Techniques (ICEECCOT)}
+    \verb{doi}
+    \verb 10.1109/ICEECCOT43722.2018.9001568
+    \endverb
+    \field{pages}{1654\bibrangedash 1658}
+    \field{title}{Optimized Weight Maps and Fusion for Underwater Image
+  Enhancement}
+    \field{year}{2018}
   \endentry
 
   \entry{4}{article}{}
@@ -961,6 +1033,57 @@
     \field{title}{A Underwater Image Enhanced Algorithm combined MSR and
   Channel Energy}
     \field{year}{2020}
+  \endentry
+
+  \entry{17}{article}{}
+    \name{author}{5}{}{%
+      {{hash=ZY}{%
+         family={{Zhou}},
+         familyi={Z\bibinitperiod},
+         given={Y.},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=WQ}{%
+         family={{Wu}},
+         familyi={W\bibinitperiod},
+         given={Q.},
+         giveni={Q\bibinitperiod},
+      }}%
+      {{hash=YK}{%
+         family={{Yan}},
+         familyi={Y\bibinitperiod},
+         given={K.},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=FL}{%
+         family={{Feng}},
+         familyi={F\bibinitperiod},
+         given={L.},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=XW}{%
+         family={{Xiang}},
+         familyi={X\bibinitperiod},
+         given={W.},
+         giveni={W\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{ZY+1}
+    \strng{fullhash}{ZYWQYKFLXW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{Z}
+    \field{sortinithash}{Z}
+    \verb{doi}
+    \verb 10.1109/TCSVT.2018.2884615
+    \endverb
+    \field{number}{3}
+    \field{pages}{907\bibrangedash 911}
+    \field{title}{Underwater Image Restoration Using Color-Line Model}
+    \field{volume}{29}
+    \field{journaltitle}{IEEE Transactions on Circuits and Systems for Video
+  Technology}
+    \field{year}{2019}
   \endentry
 \enddatalist
 \endinput
