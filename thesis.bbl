@@ -17,6 +17,49 @@
 \endgroup
 
 \datalist[entry]{nty/global//global/global}
+  \entry{28}{inproceedings}{}
+    \name{author}{4}{}{%
+      {{hash=AR}{%
+         family={Achanta},
+         familyi={A\bibinitperiod},
+         given={Radhakrishna},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=HS}{%
+         family={Hemami},
+         familyi={H\bibinitperiod},
+         given={Sheila},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=EF}{%
+         family={Estrada},
+         familyi={E\bibinitperiod},
+         given={Francisco},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=SS}{%
+         family={Susstrunk},
+         familyi={S\bibinitperiod},
+         given={Sabine},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{AR+1}
+    \strng{fullhash}{ARHSEFSS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{booktitle}{2009 IEEE Conference on Computer Vision and Pattern
+  Recognition}
+    \verb{doi}
+    \verb 10.1109/CVPR.2009.5206596
+    \endverb
+    \field{pages}{1597\bibrangedash 1604}
+    \field{title}{Frequency-tuned salient region detection}
+    \field{year}{2009}
+  \endentry
+
   \entry{16}{article}{}
     \name{author}{4}{}{%
       {{hash=ACO}{%
@@ -262,6 +305,45 @@
     \field{year}{2019}
   \endentry
 
+  \entry{27}{article}{}
+    \name{author}{3}{}{%
+      {{hash=HK}{%
+         family={He},
+         familyi={H\bibinitperiod},
+         given={Kaiming},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=SJ}{%
+         family={Sun},
+         familyi={S\bibinitperiod},
+         given={Jian},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=TX}{%
+         family={Tang},
+         familyi={T\bibinitperiod},
+         given={Xiaoou},
+         giveni={X\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HKSJTX1}
+    \strng{fullhash}{HKSJTX1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \verb{doi}
+    \verb 10.1109/TPAMI.2010.168
+    \endverb
+    \field{number}{12}
+    \field{pages}{2341\bibrangedash 2353}
+    \field{title}{Single Image Haze Removal Using Dark Channel Prior}
+    \field{volume}{33}
+    \field{journaltitle}{IEEE Transactions on Pattern Analysis and Machine
+  Intelligence}
+    \field{year}{2011}
+  \endentry
+
   \entry{10}{inproceedings}{}
     \name{author}{3}{}{%
       {{hash=HP}{%
@@ -477,6 +559,56 @@
   Information Loss and Histogram Distribution Prior}
     \field{volume}{25}
     \field{journaltitle}{IEEE Transactions on Image Processing}
+    \field{year}{2016}
+  \endentry
+
+  \entry{26}{inproceedings}{}
+    \name{author}{5}{}{%
+      {{hash=LC}{%
+         family={Li},
+         familyi={L\bibinitperiod},
+         given={Chongyi},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=QJ}{%
+         family={Quo},
+         familyi={Q\bibinitperiod},
+         given={Jichang},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=PY}{%
+         family={Pang},
+         familyi={P\bibinitperiod},
+         given={Yanwei},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=CS}{%
+         family={Chen},
+         familyi={C\bibinitperiod},
+         given={Shanji},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=WJ}{%
+         family={Wang},
+         familyi={W\bibinitperiod},
+         given={Jian},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LC+2}
+    \strng{fullhash}{LCQJPYCSWJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \field{booktitle}{2016 IEEE International Conference on Acoustics, Speech
+  and Signal Processing (ICASSP)}
+    \verb{doi}
+    \verb 10.1109/ICASSP.2016.7471973
+    \endverb
+    \field{pages}{1731\bibrangedash 1735}
+    \field{title}{Single underwater image restoration by blue-green channels
+  dehazing and red channel correction}
     \field{year}{2016}
   \endentry
 
@@ -1001,6 +1133,38 @@
     \field{title}{Low Complexity Underwater Image Enhancement Based on Dark
   Channel Prior}
     \field{year}{2011}
+  \endentry
+
+  \entry{18}{article}{}
+    \name{author}{2}{}{%
+      {{hash=YM}{%
+         family={{Yang}},
+         familyi={Y\bibinitperiod},
+         given={M.},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=SA}{%
+         family={{Sowmya}},
+         familyi={S\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{YMSA1}
+    \strng{fullhash}{YMSA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{Y}
+    \field{sortinithash}{Y}
+    \verb{doi}
+    \verb 10.1109/TIP.2015.2491020
+    \endverb
+    \field{number}{12}
+    \field{pages}{6062\bibrangedash 6071}
+    \field{title}{An Underwater Color Image Quality Evaluation Metric}
+    \field{volume}{24}
+    \field{journaltitle}{IEEE Transactions on Image Processing}
+    \field{year}{2015}
   \endentry
 
   \entry{20}{inproceedings}{}
