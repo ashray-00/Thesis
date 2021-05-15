@@ -15,8 +15,14 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3.4}Color Balance and Fusion for Underwater Image Enhancement \cite {16}}{12}{subsection.3.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.5}An Underwater Color Image Quality Evaluation Metric \cite {18}}{15}{subsection.3.5}%
+\contentsline {subsection}{\numberline {3.5}Underwater Color Image Quality Evaluation Metric (UCIQE) \cite {18}}{15}{subsection.3.5}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4}Evaluation of the Investigation}{16}{section.4}%
+\contentsline {subsection}{\numberline {3.6}Underwater Image Quality Measure (UIQM) \cite {29}}{16}{subsection.3.6}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5}Conclusions}{16}{section.5}%
+\contentsline {section}{\numberline {4}Results and Analysis}{17}{section.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.1}Qualitative analysis of Underwater Images}{17}{subsection.4.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.2}Quantitative analysis of Underwater Images}{24}{subsection.4.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5}Conclusions}{31}{section.5}%

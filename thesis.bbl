@@ -828,6 +828,45 @@
     \field{year}{2008}
   \endentry
 
+  \entry{29}{article}{}
+    \name{author}{3}{}{%
+      {{hash=PK}{%
+         family={Panetta},
+         familyi={P\bibinitperiod},
+         given={Karen},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=GC}{%
+         family={Gao},
+         familyi={G\bibinitperiod},
+         given={Chen},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=AS}{%
+         family={Agaian},
+         familyi={A\bibinitperiod},
+         given={Sos},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{PKGCAS1}
+    \strng{fullhash}{PKGCAS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \verb{doi}
+    \verb 10.1109/JOE.2015.2469915
+    \endverb
+    \field{number}{3}
+    \field{pages}{541\bibrangedash 551}
+    \field{title}{Human-Visual-System-Inspired Underwater Image Quality
+  Measures}
+    \field{volume}{41}
+    \field{journaltitle}{IEEE Journal of Oceanic Engineering}
+    \field{year}{2016}
+  \endentry
+
   \entry{3}{inproceedings}{}
     \name{author}{3}{}{%
       {{hash=PY}{%

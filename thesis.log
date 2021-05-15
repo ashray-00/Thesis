@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.11.8)  25 APR 2021 21:50
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.11.8)  15 MAY 2021 19:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -418,6 +418,58 @@ File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 \Gin@req@height=\dimen165
 \Gin@req@width=\dimen166
 )
+(/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2020/01/28 v0.5q Insert pages of external PDF documents (AM)
+
+(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count384
+\calc@Bcount=\count385
+\calc@Adimen=\dimen167
+\calc@Bdimen=\dimen168
+\calc@Askip=\skip76
+\calc@Bskip=\skip77
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count386
+\calc@Cskip=\skip78
+)
+(/usr/share/texlive/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2018/04/12 v2.0h eso-pic (RN)
+
+(/usr/share/texlive/texmf-dist/tex/generic/atbegshi/atbegshi.sty
+Package: atbegshi 2019/12/05 v1.19 At begin shipout hook (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+))
+\AM@pagewidth=\dimen169
+\AM@pageheight=\dimen170
+
+(/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pppdftex.def
+File: pppdftex.def 2020/01/28 v0.5q Pdfpages driver for pdfTeX (AM)
+)
+\AM@pagebox=\box45
+\AM@global@opts=\toks18
+\AM@pagecnt=\count387
+\AM@toc@title=\toks19
+\c@AM@survey=\count388
+\AM@templatesizebox=\box46
+)
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2020/01/14 v7.00d Hypertext links for LaTeX
 
@@ -436,9 +488,9 @@ Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
 (/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty
 Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
 )
-\@linkdim=\dimen167
-\Hy@linkcounter=\count384
-\Hy@pagecounter=\count385
+\@linkdim=\dimen171
+\Hy@linkcounter=\count389
+\Hy@pagecounter=\count390
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2020/01/14 v7.00d Hyperref: PDFDocEncoding definition (HO)
@@ -451,8 +503,8 @@ Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 (/usr/share/texlive/texmf-dist/tex/generic/etexcmds/etexcmds.sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
-\Hy@SavedSpaceFactor=\count386
-\pdfmajorversion=\count387
+\Hy@SavedSpaceFactor=\count391
+\pdfmajorversion=\count392
 Package hyperref Info: Hyper figures OFF on input line 4547.
 Package hyperref Info: Link nesting OFF on input line 4552.
 Package hyperref Info: Hyper index ON on input line 4555.
@@ -460,9 +512,9 @@ Package hyperref Info: Plain pages OFF on input line 4562.
 Package hyperref Info: Backreferencing OFF on input line 4567.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4800.
-\c@Hy@tempcnt=\count388
+\c@Hy@tempcnt=\count393
 LaTeX Info: Redefining \url on input line 5159.
-\XeTeXLinkMargin=\dimen168
+\XeTeXLinkMargin=\dimen172
 
 (/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
@@ -471,9 +523,9 @@ Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count389
-\Field@Width=\dimen169
-\Fld@charsize=\dimen170
+\Fld@menulength=\count394
+\Field@Width=\dimen173
+\Fld@charsize=\dimen174
 Package hyperref Info: Hyper figures OFF on input line 6430.
 Package hyperref Info: Link nesting OFF on input line 6435.
 Package hyperref Info: Hyper index ON on input line 6438.
@@ -483,13 +535,9 @@ Package hyperref Info: Link coloring with OCG OFF on input line 6455.
 Package hyperref Info: PDF/A mode OFF on input line 6460.
 LaTeX Info: Redefining \ref on input line 6500.
 LaTeX Info: Redefining \pageref on input line 6504.
-
-(/usr/share/texlive/texmf-dist/tex/generic/atbegshi/atbegshi.sty
-Package: atbegshi 2019/12/05 v1.19 At begin shipout hook (HO)
-)
-\Hy@abspage=\count390
-\c@Item=\count391
-\c@Hfootnote=\count392
+\Hy@abspage=\count395
+\c@Item=\count396
+\c@Hfootnote=\count397
 )
 Package hyperref Info: Driver: hpdftex.
 
@@ -499,8 +547,8 @@ File: hpdftex.def 2020/01/14 v7.00d Hyperref driver for pdfTeX
 (/usr/share/texlive/texmf-dist/tex/latex/atveryend/atveryend.sty
 Package: atveryend 2019-12-11 v1.11 Hooks at the very end of document (HO)
 )
-\Fld@listcount=\count393
-\c@bookmark@seq@number=\count394
+\Fld@listcount=\count398
+\c@bookmark@seq@number=\count399
 
 (/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
 Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
@@ -511,7 +559,7 @@ Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 86.
 )
-\Hy@SectionHShift=\skip76
+\Hy@SectionHShift=\skip79
 )
 (/usr/share/texlive/texmf-dist/tex/latex/algorithms/algorithm.sty
 Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating enviro
@@ -519,14 +567,14 @@ nment
 
 (/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count395
-\float@exts=\toks18
-\float@box=\box45
-\@float@everytoks=\toks19
-\@floatcapt=\box46
+\c@float@type=\count400
+\float@exts=\toks20
+\float@box=\box47
+\@float@everytoks=\toks21
+\@floatcapt=\box48
 )
-\@float@every@algorithm=\toks20
-\c@algorithm=\count396
+\@float@every@algorithm=\toks22
+\c@algorithm=\count401
 )
 (/usr/share/texlive/texmf-dist/tex/latex/arev/arevmath.sty
 Package: arevmath 2006/02/19 0.1 Arev Sans Math package
@@ -536,7 +584,7 @@ Package: amssymb 2013/01/14 v3.01 AMS font symbols
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
-\@emptytoks=\toks21
+\@emptytoks=\toks23
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
@@ -839,7 +887,7 @@ LaTeX Font Info:    Redeclaring math symbol \varnothing on input line 204.
 )
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2020/01/20 v2.17e AMS math features
-\@mathmargin=\skip77
+\@mathmargin=\skip80
 
 For additional information on amsmath, use the `?' option.
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
@@ -847,53 +895,72 @@ Package: amstext 2000/06/29 v2.01 AMS text
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks22
-\ex@=\dimen171
+\@emptytoks=\toks24
+\ex@=\dimen175
 ))
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen172
+\pmbraise@=\dimen176
 )
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2016/03/08 v2.02 operator names
 )
-\inf@bad=\count397
+\inf@bad=\count402
 LaTeX Info: Redefining \frac on input line 227.
-\uproot@=\count398
-\leftroot@=\count399
+\uproot@=\count403
+\leftroot@=\count404
 LaTeX Info: Redefining \overline on input line 389.
-\classnum@=\count400
-\DOTSCASE@=\count401
+\classnum@=\count405
+\DOTSCASE@=\count406
 LaTeX Info: Redefining \ldots on input line 486.
 LaTeX Info: Redefining \dots on input line 489.
 LaTeX Info: Redefining \cdots on input line 610.
-\Mathstrutbox@=\box47
-\strutbox@=\box48
-\big@size=\dimen173
+\Mathstrutbox@=\box49
+\strutbox@=\box50
+\big@size=\dimen177
 LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
-\macc@depth=\count402
-\c@MaxMatrixCols=\count403
+\macc@depth=\count407
+\c@MaxMatrixCols=\count408
 \dotsspace@=\muskip21
-\c@parentequation=\count404
-\dspbrk@lvl=\count405
-\tag@help=\toks23
-\row@=\count406
-\column@=\count407
-\maxfields@=\count408
-\andhelp@=\toks24
-\eqnshift@=\dimen174
-\alignsep@=\dimen175
-\tagshift@=\dimen176
-\tagwidth@=\dimen177
-\totwidth@=\dimen178
-\lineht@=\dimen179
-\@envbody=\toks25
-\multlinegap=\skip78
-\multlinetaggap=\skip79
-\mathdisplay@stack=\toks26
+\c@parentequation=\count409
+\dspbrk@lvl=\count410
+\tag@help=\toks25
+\row@=\count411
+\column@=\count412
+\maxfields@=\count413
+\andhelp@=\toks26
+\eqnshift@=\dimen178
+\alignsep@=\dimen179
+\tagshift@=\dimen180
+\tagwidth@=\dimen181
+\totwidth@=\dimen182
+\lineht@=\dimen183
+\@envbody=\toks27
+\multlinegap=\skip81
+\multlinetaggap=\skip82
+\mathdisplay@stack=\toks28
 LaTeX Info: Redefining \[ on input line 2859.
 LaTeX Info: Redefining \] on input line 2860.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
+Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
+\col@sep=\dimen184
+\ar@mcellbox=\box51
+\extrarowheight=\dimen185
+\NC@list=\toks29
+\extratabsurround=\skip83
+\backup@length=\skip84
+\ar@cellbox=\box52
+)
+(/usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip85
+\enit@outerparindent=\dimen186
+\enit@toks=\toks30
+\enit@inbox=\box53
+\enit@count@id=\count414
+\enitdp@description=\count415
 )
 (/usr/share/texlive/texmf-dist/tex/latex/algorithmicx/algpseudocode.sty
 Package: algpseudocode 
@@ -902,60 +969,60 @@ Package: algpseudocode
 Package: algorithmicx 2005/04/27 v1.2 Algorithmicx
 
 Document Style algorithmicx 1.2 - a greatly improved `algorithmic' style
-\c@ALG@line=\count409
-\c@ALG@rem=\count410
-\c@ALG@nested=\count411
-\ALG@tlm=\skip80
-\ALG@thistlm=\skip81
-\c@ALG@Lnr=\count412
-\c@ALG@blocknr=\count413
-\c@ALG@storecount=\count414
-\c@ALG@tmpcounter=\count415
-\ALG@tmplength=\skip82
+\c@ALG@line=\count416
+\c@ALG@rem=\count417
+\c@ALG@nested=\count418
+\ALG@tlm=\skip86
+\ALG@thistlm=\skip87
+\c@ALG@Lnr=\count419
+\c@ALG@blocknr=\count420
+\c@ALG@storecount=\count421
+\c@ALG@tmpcounter=\count422
+\ALG@tmplength=\skip88
 )
 Document Style - pseudocode environments for use with the `algorithmicx' style
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 30.
+Package hyperref Info: Option `colorlinks' set `true' on input line 37.
 
 
 Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 (biblatex)                Loading 'csquotes' recommended.
 
-\@quotelevel=\count416
-\@quotereset=\count417
+\@quotelevel=\count423
+\@quotereset=\count424
 (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
 File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
-\l__kernel_color_stack_int=\count418
-\l__pdf_internal_box=\box49
+\l__kernel_color_stack_int=\count425
+\l__pdf_internal_box=\box54
 )
 (./thesis.aux)
 \openout1 = `thesis.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for MDA/cmr/m/n on input line 34.
-LaTeX Font Info:    Trying to load font information for MDA+cmr on input line 3
-4.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for MDA/cmr/m/n on input line 41.
+LaTeX Font Info:    Trying to load font information for MDA+cmr on input line 4
+1.
  (/usr/share/texlive/texmf-dist/tex/latex/mathdesign/mdacmr.fd
 File: mdacmr.fd 
 )
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Trying to load font information for OT1+phv on input line 3
-4.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Trying to load font information for OT1+phv on input line 4
+1.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1phv.fd
 File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
@@ -1011,8 +1078,8 @@ Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'thesis.bbl' found.
 
 (./thesis.bbl)
-Package biblatex Info: Reference section=0 on input line 34.
-Package biblatex Info: Reference segment=0 on input line 34.
+Package biblatex Info: Reference section=0 on input line 41.
+Package biblatex Info: Reference segment=0 on input line 41.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: subfig package v1.3 is loaded.
 Package caption Info: float package is loaded.
@@ -1021,17 +1088,17 @@ Package caption Info: End \AtBeginDocument code.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count419
-\scratchdimen=\dimen180
-\scratchbox=\box50
-\nofMPsegments=\count420
-\nofMParguments=\count421
-\everyMPshowfont=\toks27
-\MPscratchCnt=\count422
-\MPscratchDim=\dimen181
-\MPnumerator=\count423
-\makeMPintoPDFobject=\count424
-\everyMPtoPDFconversion=\toks28
+\scratchcounter=\count426
+\scratchdimen=\dimen187
+\scratchbox=\box55
+\nofMPsegments=\count427
+\nofMParguments=\count428
+\everyMPshowfont=\toks31
+\MPscratchCnt=\count429
+\MPscratchDim=\dimen188
+\MPnumerator=\count430
+\makeMPintoPDFobject=\count431
+\everyMPtoPDFconversion=\toks32
 ) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 
@@ -1049,17 +1116,17 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-\AtBeginShipoutBox=\box51
+\AtBeginShipoutBox=\box56
 
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
-Package: color 2019/11/23 v1.2a Standard LaTeX Color (DPC)
+(/usr/share/texlive/texmf-dist/tex/latex/pdflscape/pdflscape.sty
+Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
 
-(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
-File: color.cfg 2016/01/02 v1.6 sample color configuration
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
 )
-Package color Info: Driver file: pdftex.def on input line 147.
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 )
-Package hyperref Info: Link coloring ON on input line 34.
+Package hyperref Info: Link coloring ON on input line 41.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
@@ -1070,308 +1137,3063 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 (/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count425
+\c@section@level=\count432
 )
-LaTeX Info: Redefining \ref on input line 34.
-LaTeX Info: Redefining \pageref on input line 34.
-LaTeX Info: Redefining \nameref on input line 34.
+LaTeX Info: Redefining \ref on input line 41.
+LaTeX Info: Redefining \pageref on input line 41.
+LaTeX Info: Redefining \nameref on input line 41.
 
 (./thesis.out) (./thesis.out)
 \@outlinefile=\write4
 \openout4 = `thesis.out'.
 
-<bsc-logo.pdf, id=44, 233.87375pt x 84.315pt>
+<bsc-logo.pdf, id=56, 233.87375pt x 84.315pt>
 File: bsc-logo.pdf Graphic file (type pdf)
 <use bsc-logo.pdf>
-Package pdftex.def Info: bsc-logo.pdf  used on input line 40.
+Package pdftex.def Info: bsc-logo.pdf  used on input line 47.
 (pdftex.def)             Requested size: 187.09923pt x 67.45207pt.
 LaTeX Font Info:    Trying to load font information for OT1+zavm on input line 
-68.
+75.
 
 (/usr/share/texlive/texmf-dist/tex/latex/arev/ot1zavm.fd
 File: ot1zavm.fd 2006/05/30 Fontinst v1.929 font definitions for OT1/zavm.
 )
 LaTeX Font Info:    Trying to load font information for OML+zavm on input line 
-68.
+75.
 
 (/usr/share/texlive/texmf-dist/tex/latex/arev/omlzavm.fd
 File: omlzavm.fd 2006/05/30 Fontinst v1.929 font definitions for OML/zavm.
 )
 LaTeX Font Info:    Trying to load font information for OMS+zavm on input line 
-68.
+75.
 
 (/usr/share/texlive/texmf-dist/tex/latex/arev/omszavm.fd
 File: omszavm.fd 2006/05/30 Fontinst v1.929 font definitions for OMS/zavm.
 )
 LaTeX Font Info:    Trying to load font information for OMX+mdbch on input line
- 68.
+ 75.
 
 (/usr/share/texlive/texmf-dist/tex/latex/mathdesign/mdbch/omxmdbch.fd
 File: omxmdbch.fd 2013/08/29 Fontinst v1.933 font definitions for OMX/mdbch.
 )
 LaTeX Font Info:    Font shape `OMX/mdbch/m/n' will be
-(Font)              scaled to size 10.51207pt on input line 68.
+(Font)              scaled to size 10.51207pt on input line 75.
 LaTeX Font Info:    Font shape `OMX/mdbch/m/n' will be
-(Font)              scaled to size 7.68005pt on input line 68.
+(Font)              scaled to size 7.68005pt on input line 75.
 LaTeX Font Info:    Font shape `OMX/mdbch/m/n' will be
-(Font)              scaled to size 5.76004pt on input line 68.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 68.
+(Font)              scaled to size 5.76004pt on input line 75.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 75.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 68.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 75.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Trying to load font information for MDA+mdbch on input line
- 68.
+ 75.
 
 (/usr/share/texlive/texmf-dist/tex/latex/mathdesign/mdbch/mdamdbch.fd
 File: mdamdbch.fd 2013/08/29 Fontinst v1.933 font definitions for MDA/mdbch.
 )
 LaTeX Font Info:    Font shape `MDA/mdbch/b/n' will be
-(Font)              scaled to size 10.51207pt on input line 68.
+(Font)              scaled to size 10.51207pt on input line 75.
 LaTeX Font Info:    Font shape `MDA/mdbch/b/n' will be
-(Font)              scaled to size 7.68005pt on input line 68.
+(Font)              scaled to size 7.68005pt on input line 75.
 LaTeX Font Info:    Font shape `MDA/mdbch/b/n' will be
-(Font)              scaled to size 5.76004pt on input line 68.
-LaTeX Font Info:    Trying to load font information for U+zavm on input line 68
+(Font)              scaled to size 5.76004pt on input line 75.
+LaTeX Font Info:    Trying to load font information for U+zavm on input line 75
 .
 
 (/usr/share/texlive/texmf-dist/tex/latex/arev/uzavm.fd
 File: uzavm.fd 2006/05/30 Fontinst v1.929 font definitions for U/zavm.
 ) [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./bsc-logo.pdf>] [2] (./th
-esis.toc)
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./bsc-logo.pdf>]
+<Declaration.pdf, id=72, 597.53635pt x 845.04686pt>
+File: Declaration.pdf Graphic file (type pdf)
+<use Declaration.pdf>
+Package pdftex.def Info: Declaration.pdf  used on input line 117.
+(pdftex.def)             Requested size: 597.53488pt x 845.0448pt.
+File: Declaration.pdf Graphic file (type pdf)
+<use Declaration.pdf>
+Package pdftex.def Info: Declaration.pdf  used on input line 117.
+(pdftex.def)             Requested size: 597.53488pt x 845.0448pt.
+<Declaration.pdf, id=75, page=1, 597.53635pt x 845.04686pt>
+File: Declaration.pdf Graphic file (type pdf)
+<use Declaration.pdf, page 1>
+Package pdftex.def Info: Declaration.pdf , page1 used on input line 117.
+(pdftex.def)             Requested size: 597.53488pt x 845.0448pt.
+File: Declaration.pdf Graphic file (type pdf)
+<use Declaration.pdf, page 1>
+Package pdftex.def Info: Declaration.pdf , page1 used on input line 117.
+(pdftex.def)             Requested size: 597.56223pt x 845.08348pt.
+File: Declaration.pdf Graphic file (type pdf)
+<use Declaration.pdf, page 1>
+Package pdftex.def Info: Declaration.pdf , page1 used on input line 117.
+(pdftex.def)             Requested size: 597.56223pt x 845.08348pt.
+File: Declaration.pdf Graphic file (type pdf)
+<use Declaration.pdf, page 1>
+Package pdftex.def Info: Declaration.pdf , page1 used on input line 117.
+(pdftex.def)             Requested size: 597.56223pt x 845.08348pt.
+File: Declaration.pdf Graphic file (type pdf)
+<use Declaration.pdf, page 1>
+Package pdftex.def Info: Declaration.pdf , page1 used on input line 117.
+(pdftex.def)             Requested size: 597.56223pt x 845.08348pt.
+ [2 <./Declaration.pdf>]
+[3] (./thesis.toc)
 \tf@toc=\write5
 \openout5 = `thesis.toc'.
 
- [3]
-Underfull \hbox (badness 10000) in paragraph at lines 127--137
+ [4]
+Underfull \hbox (badness 10000) in paragraph at lines 212--222
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 127--137
+Underfull \hbox (badness 10000) in paragraph at lines 212--222
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 127--137
+Underfull \hbox (badness 10000) in paragraph at lines 212--222
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 127--137
+Underfull \hbox (badness 10000) in paragraph at lines 212--222
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 149--184
+Underfull \hbox (badness 10000) in paragraph at lines 234--268
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 149--184
+Underfull \hbox (badness 10000) in paragraph at lines 234--268
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 149--184
+Underfull \hbox (badness 10000) in paragraph at lines 234--268
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 149--184
+Underfull \hbox (badness 10000) in paragraph at lines 234--268
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 149--184
+Underfull \hbox (badness 10000) in paragraph at lines 234--268
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 149--184
+Underfull \hbox (badness 10000) in paragraph at lines 234--268
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 149--184
+Underfull \hbox (badness 10000) in paragraph at lines 234--268
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 149--184
+Underfull \hbox (badness 10000) in paragraph at lines 234--268
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 149--184
+Underfull \hbox (badness 10000) in paragraph at lines 234--268
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 149--184
+Underfull \hbox (badness 10000) in paragraph at lines 234--268
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 149--184
+Underfull \hbox (badness 10000) in paragraph at lines 234--268
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 149--184
+Underfull \hbox (badness 10000) in paragraph at lines 234--268
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 149--184
+Underfull \hbox (badness 10000) in paragraph at lines 234--268
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 149--184
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 149--184
+Underfull \hbox (badness 10000) in paragraph at lines 234--268
 
  []
 
 [1
 
 ] [2] [3] [4] [5] [6]
-<../Underwater-Image-Enhancements/InputImages/Valentine_196.png, id=233, 642.4p
-t x 481.8pt>
+<../Underwater-Image-Enhancements/InputImages/Valentine_196.png, id=320, 546.04
+pt x 413.545pt>
 File: ../Underwater-Image-Enhancements/InputImages/Valentine_196.png Graphic fi
 le (type png)
 <use ../Underwater-Image-Enhancements/InputImages/Valentine_196.png>
 Package pdftex.def Info: ../Underwater-Image-Enhancements/InputImages/Valentine
-_196.png  used on input line 198.
-(pdftex.def)             Requested size: 192.72148pt x 144.5411pt.
-<../Underwater-Image-Enhancements/InputImages/Valentine_95.png, id=234, 642.4pt
- x 481.8pt>
-File: ../Underwater-Image-Enhancements/InputImages/Valentine_95.png Graphic fil
+_196.png  used on input line 281.
+(pdftex.def)             Requested size: 213.39568pt x 161.61633pt.
+<../Underwater-Image-Enhancements/InputImages/Valentine_60.png, id=321, 546.04p
+t x 413.545pt>
+File: ../Underwater-Image-Enhancements/InputImages/Valentine_60.png Graphic fil
 e (type png)
-<use ../Underwater-Image-Enhancements/InputImages/Valentine_95.png>
+<use ../Underwater-Image-Enhancements/InputImages/Valentine_60.png>
 Package pdftex.def Info: ../Underwater-Image-Enhancements/InputImages/Valentine
-_95.png  used on input line 199.
-(pdftex.def)             Requested size: 192.72148pt x 144.5411pt.
-<../Underwater-Image-Enhancements/InputImages/Valentine_129.png, id=235, 642.4p
-t x 481.8pt>
+_60.png  used on input line 282.
+(pdftex.def)             Requested size: 213.39568pt x 161.61633pt.
+<../Underwater-Image-Enhancements/InputImages/Valentine_129.png, id=322, 546.04
+pt x 413.545pt>
 File: ../Underwater-Image-Enhancements/InputImages/Valentine_129.png Graphic fi
 le (type png)
 <use ../Underwater-Image-Enhancements/InputImages/Valentine_129.png>
 Package pdftex.def Info: ../Underwater-Image-Enhancements/InputImages/Valentine
-_129.png  used on input line 200.
-(pdftex.def)             Requested size: 192.72148pt x 144.5411pt.
-<../Underwater-Image-Enhancements/InputImages/Valentine_30.png, id=236, 642.4pt
- x 481.8pt>
-File: ../Underwater-Image-Enhancements/InputImages/Valentine_30.png Graphic fil
+_129.png  used on input line 283.
+(pdftex.def)             Requested size: 213.39568pt x 161.61633pt.
+<../Underwater-Image-Enhancements/InputImages/Valentine_10.png, id=323, 546.04p
+t x 413.545pt>
+File: ../Underwater-Image-Enhancements/InputImages/Valentine_10.png Graphic fil
 e (type png)
-<use ../Underwater-Image-Enhancements/InputImages/Valentine_30.png>
+<use ../Underwater-Image-Enhancements/InputImages/Valentine_10.png>
 Package pdftex.def Info: ../Underwater-Image-Enhancements/InputImages/Valentine
-_30.png  used on input line 201.
-(pdftex.def)             Requested size: 192.72148pt x 144.5411pt.
+_10.png  used on input line 284.
+(pdftex.def)             Requested size: 213.39568pt x 161.61633pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 193--206
+Underfull \hbox (badness 10000) in paragraph at lines 277--288
 
  []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 277--288
+
+ []
+
+[7 <../Underwater-Image-Enhancements/InputImages/Valentine_196.png> <../Underwa
+ter-Image-Enhancements/InputImages/Valentine_60.png> <../Underwater-Image-Enhan
+cements/InputImages/Valentine_129.png> <../Underwater-Image-Enhancements/InputI
+mages/Valentine_10.png>]
+
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\cite' on input line 208.
+(hyperref)                removing `\cite' on input line 291.
 
-[7 <../Underwater-Image-Enhancements/InputImages/Valentine_196.png (PNG copy)> 
-<../Underwater-Image-Enhancements/InputImages/Valentine_95.png (PNG copy)> <../
-Underwater-Image-Enhancements/InputImages/Valentine_129.png (PNG copy)> <../Und
-erwater-Image-Enhancements/InputImages/Valentine_30.png (PNG copy)>]
-LaTeX Font Info:    Trying to load font information for TS1+phv on input line 2
-32.
-
+LaTeX Font Info:    Trying to load font information for TS1+phv on input line 3
+15.
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1phv.fd
 File: ts1phv.fd 2001/06/04 scalable font definitions for TS1/phv.
 )
-Underfull \hbox (badness 10000) in paragraph at lines 244--247
+Underfull \hbox (badness 10000) in paragraph at lines 327--330
 
  []
 
-
-Overfull \hbox (1.28102pt too wide) in paragraph at lines 248--248
+[8]
+Overfull \hbox (1.28102pt too wide) in paragraph at lines 331--331
 []\OT1/phv/b/n/12 Low Com-plex-ity Un-der-wa-ter Im-age En-hance-ment Based on 
 Dark Chan-
  []
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\cite' on input line 248.
+(hyperref)                removing `\cite' on input line 331.
 
-[8] [9]
+[9]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\cite' on input line 284.
+(hyperref)                removing `\cite' on input line 367.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 291--295
+Underfull \hbox (badness 10000) in paragraph at lines 374--378
 
  []
 
 [10] [11]
-Underfull \hbox (badness 10000) in paragraph at lines 318--342
-
- []
-
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\cite' on input line 342.
+(hyperref)                removing `\cite' on input line 425.
 
 [12]
-Underfull \hbox (badness 10000) in paragraph at lines 351--357
+Underfull \hbox (badness 10000) in paragraph at lines 434--440
 
  []
 
-[13]
-Underfull \hbox (badness 10000) in paragraph at lines 373--403
-
- []
-
-[14]
+[13] [14]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\cite' on input line 403.
+(hyperref)                removing `\cite' on input line 488.
 
-[15] [16]
+[15]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\cite' on input line 493.
+
+[16]
+File: ../Underwater-Image-Enhancements/InputImages/Valentine_10.png Graphic fil
+e (type png)
+<use ../Underwater-Image-Enhancements/InputImages/Valentine_10.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/InputImages/Valentine
+_10.png  used on input line 513.
+(pdftex.def)             Requested size: 85.35696pt x 64.64148pt.
+<../Underwater-Image-Enhancements/InputImages/Valentine_11.png, id=481, 546.04p
+t x 413.545pt>
+File: ../Underwater-Image-Enhancements/InputImages/Valentine_11.png Graphic fil
+e (type png)
+<use ../Underwater-Image-Enhancements/InputImages/Valentine_11.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/InputImages/Valentine
+_11.png  used on input line 514.
+(pdftex.def)             Requested size: 85.35696pt x 64.64148pt.
+<../Underwater-Image-Enhancements/InputImages/Valentine_12.png, id=482, 546.04p
+t x 413.545pt>
+File: ../Underwater-Image-Enhancements/InputImages/Valentine_12.png Graphic fil
+e (type png)
+<use ../Underwater-Image-Enhancements/InputImages/Valentine_12.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/InputImages/Valentine
+_12.png  used on input line 515.
+(pdftex.def)             Requested size: 85.35696pt x 64.64148pt.
+<../Underwater-Image-Enhancements/InputImages/Valentine_62.png, id=483, 546.04p
+t x 413.545pt>
+File: ../Underwater-Image-Enhancements/InputImages/Valentine_62.png Graphic fil
+e (type png)
+<use ../Underwater-Image-Enhancements/InputImages/Valentine_62.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/InputImages/Valentine
+_62.png  used on input line 516.
+(pdftex.def)             Requested size: 85.35696pt x 64.64148pt.
+<../Underwater-Image-Enhancements/InputImages/Valentine_63.png, id=484, 546.04p
+t x 413.545pt>
+File: ../Underwater-Image-Enhancements/InputImages/Valentine_63.png Graphic fil
+e (type png)
+<use ../Underwater-Image-Enhancements/InputImages/Valentine_63.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/InputImages/Valentine
+_63.png  used on input line 517.
+(pdftex.def)             Requested size: 85.35696pt x 64.64148pt.
+File: ../Underwater-Image-Enhancements/InputImages/Valentine_129.png Graphic fi
+le (type png)
+<use ../Underwater-Image-Enhancements/InputImages/Valentine_129.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/InputImages/Valentine
+_129.png  used on input line 518.
+(pdftex.def)             Requested size: 85.35696pt x 64.64148pt.
+<../Underwater-Image-Enhancements/InputImages/Valentine_130.png, id=485, 546.04
+pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/InputImages/Valentine_130.png Graphic fi
+le (type png)
+<use ../Underwater-Image-Enhancements/InputImages/Valentine_130.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/InputImages/Valentine
+_130.png  used on input line 519.
+(pdftex.def)             Requested size: 85.35696pt x 64.64148pt.
+<../Underwater-Image-Enhancements/InputImages/Valentine_131.png, id=486, 546.04
+pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/InputImages/Valentine_131.png Graphic fi
+le (type png)
+<use ../Underwater-Image-Enhancements/InputImages/Valentine_131.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/InputImages/Valentine
+_131.png  used on input line 520.
+(pdftex.def)             Requested size: 85.35696pt x 64.64148pt.
+<../Underwater-Image-Enhancements/InputImages/Valentine_192.png, id=487, 546.04
+pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/InputImages/Valentine_192.png Graphic fi
+le (type png)
+<use ../Underwater-Image-Enhancements/InputImages/Valentine_192.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/InputImages/Valentine
+_192.png  used on input line 521.
+(pdftex.def)             Requested size: 85.35696pt x 64.64148pt.
+<../Underwater-Image-Enhancements/InputImages/Valentine_193.png, id=488, 546.04
+pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/InputImages/Valentine_193.png Graphic fi
+le (type png)
+<use ../Underwater-Image-Enhancements/InputImages/Valentine_193.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/InputImages/Valentine
+_193.png  used on input line 522.
+(pdftex.def)             Requested size: 85.35696pt x 64.64148pt.
+<../Underwater-Image-Enhancements/InputImages/Valentine_194.png, id=489, 546.04
+pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/InputImages/Valentine_194.png Graphic fi
+le (type png)
+<use ../Underwater-Image-Enhancements/InputImages/Valentine_194.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/InputImages/Valentine
+_194.png  used on input line 524.
+(pdftex.def)             Requested size: 85.35696pt x 64.64148pt.
+<../Underwater-Image-Enhancements/InputImages/Valentine_195.png, id=490, 546.04
+pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/InputImages/Valentine_195.png Graphic fi
+le (type png)
+<use ../Underwater-Image-Enhancements/InputImages/Valentine_195.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/InputImages/Valentine
+_195.png  used on input line 525.
+(pdftex.def)             Requested size: 85.35696pt x 64.64148pt.
+File: ../Underwater-Image-Enhancements/InputImages/Valentine_196.png Graphic fi
+le (type png)
+<use ../Underwater-Image-Enhancements/InputImages/Valentine_196.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/InputImages/Valentine
+_196.png  used on input line 526.
+(pdftex.def)             Requested size: 85.35696pt x 64.64148pt.
+<../Underwater-Image-Enhancements/InputImages/Valentine_197.png, id=491, 546.04
+pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/InputImages/Valentine_197.png Graphic fi
+le (type png)
+<use ../Underwater-Image-Enhancements/InputImages/Valentine_197.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/InputImages/Valentine
+_197.png  used on input line 527.
+(pdftex.def)             Requested size: 85.35696pt x 64.64148pt.
+<../Underwater-Image-Enhancements/InputImages/Valentine_198.png, id=492, 546.04
+pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/InputImages/Valentine_198.png Graphic fi
+le (type png)
+<use ../Underwater-Image-Enhancements/InputImages/Valentine_198.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/InputImages/Valentine
+_198.png  used on input line 528.
+(pdftex.def)             Requested size: 85.35696pt x 64.64148pt.
+<../Underwater-Image-Enhancements/InputImages/Valentine_199.png, id=493, 546.04
+pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/InputImages/Valentine_199.png Graphic fi
+le (type png)
+<use ../Underwater-Image-Enhancements/InputImages/Valentine_199.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/InputImages/Valentine
+_199.png  used on input line 529.
+(pdftex.def)             Requested size: 85.35696pt x 64.64148pt.
+<../Underwater-Image-Enhancements/InputImages/Valentine_200.png, id=494, 546.04
+pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/InputImages/Valentine_200.png Graphic fi
+le (type png)
+<use ../Underwater-Image-Enhancements/InputImages/Valentine_200.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/InputImages/Valentine
+_200.png  used on input line 530.
+(pdftex.def)             Requested size: 85.35696pt x 64.64148pt.
+<../Underwater-Image-Enhancements/InputImages/Valentine_201.png, id=495, 546.04
+pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/InputImages/Valentine_201.png Graphic fi
+le (type png)
+<use ../Underwater-Image-Enhancements/InputImages/Valentine_201.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/InputImages/Valentine
+_201.png  used on input line 531.
+(pdftex.def)             Requested size: 85.35696pt x 64.64148pt.
+<../Underwater-Image-Enhancements/InputImages/Valentine_202.png, id=496, 546.04
+pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/InputImages/Valentine_202.png Graphic fi
+le (type png)
+<use ../Underwater-Image-Enhancements/InputImages/Valentine_202.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/InputImages/Valentine
+_202.png  used on input line 532.
+(pdftex.def)             Requested size: 85.35696pt x 64.64148pt.
+<../Underwater-Image-Enhancements/InputImages/Valentine_203.png, id=497, 546.04
+pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/InputImages/Valentine_203.png Graphic fi
+le (type png)
+<use ../Underwater-Image-Enhancements/InputImages/Valentine_203.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/InputImages/Valentine
+_203.png  used on input line 533.
+(pdftex.def)             Requested size: 85.35696pt x 64.64148pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 509--537
+
+ []
+
+[17 <../Underwater-Image-Enhancements/InputImages/Valentine_11.png> <../Underwa
+ter-Image-Enhancements/InputImages/Valentine_12.png> <../Underwater-Image-Enhan
+cements/InputImages/Valentine_62.png> <../Underwater-Image-Enhancements/InputIm
+ages/Valentine_63.png> <../Underwater-Image-Enhancements/InputImages/Valentine_
+130.png> <../Underwater-Image-Enhancements/InputImages/Valentine_131.png> <../U
+nderwater-Image-Enhancements/InputImages/Valentine_192.png> <../Underwater-Imag
+e-Enhancements/InputImages/Valentine_193.png> <../Underwater-Image-Enhancements
+/InputImages/Valentine_194.png> <../Underwater-Image-Enhancements/InputImages/V
+alentine_195.png> <../Underwater-Image-Enhancements/InputImages/Valentine_197.p
+ng> <../Underwater-Image-Enhancements/InputImages/Valentine_198.png> <../Underw
+ater-Image-Enhancements/InputImages/Valentine_199.png> <../Underwater-Image-Enh
+ancements/InputImages/Valentine_200.png> <../Underwater-Image-Enhancements/Inpu
+tImages/Valentine_201.png> <../Underwater-Image-Enhancements/InputImages/Valent
+ine_202.png> <../Underwater-Image-Enhancements/InputImages/Valentine_203.png>]
+<../Underwater-Image-Enhancements/InputImages/Valentine_8.png, id=531, 546.04pt
+ x 413.545pt>
+File: ../Underwater-Image-Enhancements/InputImages/Valentine_8.png Graphic file
+ (type png)
+<use ../Underwater-Image-Enhancements/InputImages/Valentine_8.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/InputImages/Valentine
+_8.png  used on input line 561.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 561--561
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/OutputImages/Blue_green_channels_dehazing_and
+_red_channel_correction/Valentine_8.png, id=532, 546.04pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/OutputImages/Blue_green_channels_dehazin
+g_and_red_channel_correction/Valentine_8.png Graphic file (type png)
+<use ../Underwater-Image-Enhancements/OutputImages/Blue_green_channels_dehazing
+_and_red_channel_correction/Valentine_8.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/OutputImages/Blue_gre
+en_channels_dehazing_and_red_channel_correction/Valentine_8.png  used on input 
+line 561.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 561--561
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/OutputImages/Color_Balance_and_fusion/Valenti
+ne_8.png, id=533, 546.04pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/OutputImages/Color_Balance_and_fusion/Va
+lentine_8.png Graphic file (type png)
+<use ../Underwater-Image-Enhancements/OutputImages/Color_Balance_and_fusion/Val
+entine_8.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/OutputImages/Color_Ba
+lance_and_fusion/Valentine_8.png  used on input line 561.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 561--561
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/OutputImages/Integrated_Color_Model/Valentine
+_8.png, id=534, 546.04pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/OutputImages/Integrated_Color_Model/Vale
+ntine_8.png Graphic file (type png)
+<use ../Underwater-Image-Enhancements/OutputImages/Integrated_Color_Model/Valen
+tine_8.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/OutputImages/Integrat
+ed_Color_Model/Valentine_8.png  used on input line 561.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 561--561
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/OutputImages/Low_Complexity_Enhancement_Based
+_on_Dark_Channel/Valentine_8.png, id=535, 546.04pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/OutputImages/Low_Complexity_Enhancement_
+Based_on_Dark_Channel/Valentine_8.png Graphic file (type png)
+<use ../Underwater-Image-Enhancements/OutputImages/Low_Complexity_Enhancement_B
+ased_on_Dark_Channel/Valentine_8.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/OutputImages/Low_Comp
+lexity_Enhancement_Based_on_Dark_Channel/Valentine_8.png  used on input line 56
+1.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 561--561
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/InputImages/Valentine_9.png, id=536, 546.04pt
+ x 413.545pt>
+File: ../Underwater-Image-Enhancements/InputImages/Valentine_9.png Graphic file
+ (type png)
+<use ../Underwater-Image-Enhancements/InputImages/Valentine_9.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/InputImages/Valentine
+_9.png  used on input line 561.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 561--561
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/OutputImages/Blue_green_channels_dehazing_and
+_red_channel_correction/Valentine_9.png, id=537, 546.04pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/OutputImages/Blue_green_channels_dehazin
+g_and_red_channel_correction/Valentine_9.png Graphic file (type png)
+<use ../Underwater-Image-Enhancements/OutputImages/Blue_green_channels_dehazing
+_and_red_channel_correction/Valentine_9.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/OutputImages/Blue_gre
+en_channels_dehazing_and_red_channel_correction/Valentine_9.png  used on input 
+line 561.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 561--561
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/OutputImages/Color_Balance_and_fusion/Valenti
+ne_9.png, id=538, 546.04pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/OutputImages/Color_Balance_and_fusion/Va
+lentine_9.png Graphic file (type png)
+<use ../Underwater-Image-Enhancements/OutputImages/Color_Balance_and_fusion/Val
+entine_9.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/OutputImages/Color_Ba
+lance_and_fusion/Valentine_9.png  used on input line 561.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 561--561
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/OutputImages/Integrated_Color_Model/Valentine
+_9.png, id=539, 546.04pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/OutputImages/Integrated_Color_Model/Vale
+ntine_9.png Graphic file (type png)
+<use ../Underwater-Image-Enhancements/OutputImages/Integrated_Color_Model/Valen
+tine_9.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/OutputImages/Integrat
+ed_Color_Model/Valentine_9.png  used on input line 561.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 561--561
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/OutputImages/Low_Complexity_Enhancement_Based
+_on_Dark_Channel/Valentine_9.png, id=540, 546.04pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/OutputImages/Low_Complexity_Enhancement_
+Based_on_Dark_Channel/Valentine_9.png Graphic file (type png)
+<use ../Underwater-Image-Enhancements/OutputImages/Low_Complexity_Enhancement_B
+ased_on_Dark_Channel/Valentine_9.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/OutputImages/Low_Comp
+lexity_Enhancement_Based_on_Dark_Channel/Valentine_9.png  used on input line 56
+1.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 561--561
+ []|[]| 
+ []
+
+File: ../Underwater-Image-Enhancements/InputImages/Valentine_10.png Graphic fil
+e (type png)
+<use ../Underwater-Image-Enhancements/InputImages/Valentine_10.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/InputImages/Valentine
+_10.png  used on input line 561.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 561--561
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/OutputImages/Blue_green_channels_dehazing_and
+_red_channel_correction/Valentine_10.png, id=541, 546.04pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/OutputImages/Blue_green_channels_dehazin
+g_and_red_channel_correction/Valentine_10.png Graphic file (type png)
+<use ../Underwater-Image-Enhancements/OutputImages/Blue_green_channels_dehazing
+_and_red_channel_correction/Valentine_10.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/OutputImages/Blue_gre
+en_channels_dehazing_and_red_channel_correction/Valentine_10.png  used on input
+ line 561.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 561--561
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/OutputImages/Color_Balance_and_fusion/Valenti
+ne_10.png, id=542, 546.04pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/OutputImages/Color_Balance_and_fusion/Va
+lentine_10.png Graphic file (type png)
+<use ../Underwater-Image-Enhancements/OutputImages/Color_Balance_and_fusion/Val
+entine_10.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/OutputImages/Color_Ba
+lance_and_fusion/Valentine_10.png  used on input line 561.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 561--561
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/OutputImages/Integrated_Color_Model/Valentine
+_10.png, id=543, 546.04pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/OutputImages/Integrated_Color_Model/Vale
+ntine_10.png Graphic file (type png)
+<use ../Underwater-Image-Enhancements/OutputImages/Integrated_Color_Model/Valen
+tine_10.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/OutputImages/Integrat
+ed_Color_Model/Valentine_10.png  used on input line 561.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 561--561
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/OutputImages/Low_Complexity_Enhancement_Based
+_on_Dark_Channel/Valentine_10.png, id=544, 546.04pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/OutputImages/Low_Complexity_Enhancement_
+Based_on_Dark_Channel/Valentine_10.png Graphic file (type png)
+<use ../Underwater-Image-Enhancements/OutputImages/Low_Complexity_Enhancement_B
+ased_on_Dark_Channel/Valentine_10.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/OutputImages/Low_Comp
+lexity_Enhancement_Based_on_Dark_Channel/Valentine_10.png  used on input line 5
+61.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 561--561
+ []|[]| 
+ []
+
+File: ../Underwater-Image-Enhancements/InputImages/Valentine_11.png Graphic fil
+e (type png)
+<use ../Underwater-Image-Enhancements/InputImages/Valentine_11.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/InputImages/Valentine
+_11.png  used on input line 561.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 561--561
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/OutputImages/Blue_green_channels_dehazing_and
+_red_channel_correction/Valentine_11.png, id=545, 546.04pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/OutputImages/Blue_green_channels_dehazin
+g_and_red_channel_correction/Valentine_11.png Graphic file (type png)
+<use ../Underwater-Image-Enhancements/OutputImages/Blue_green_channels_dehazing
+_and_red_channel_correction/Valentine_11.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/OutputImages/Blue_gre
+en_channels_dehazing_and_red_channel_correction/Valentine_11.png  used on input
+ line 561.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 561--561
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/OutputImages/Color_Balance_and_fusion/Valenti
+ne_11.png, id=546, 546.04pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/OutputImages/Color_Balance_and_fusion/Va
+lentine_11.png Graphic file (type png)
+<use ../Underwater-Image-Enhancements/OutputImages/Color_Balance_and_fusion/Val
+entine_11.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/OutputImages/Color_Ba
+lance_and_fusion/Valentine_11.png  used on input line 561.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 561--561
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/OutputImages/Integrated_Color_Model/Valentine
+_11.png, id=547, 546.04pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/OutputImages/Integrated_Color_Model/Vale
+ntine_11.png Graphic file (type png)
+<use ../Underwater-Image-Enhancements/OutputImages/Integrated_Color_Model/Valen
+tine_11.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/OutputImages/Integrat
+ed_Color_Model/Valentine_11.png  used on input line 561.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 561--561
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/OutputImages/Low_Complexity_Enhancement_Based
+_on_Dark_Channel/Valentine_11.png, id=548, 546.04pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/OutputImages/Low_Complexity_Enhancement_
+Based_on_Dark_Channel/Valentine_11.png Graphic file (type png)
+<use ../Underwater-Image-Enhancements/OutputImages/Low_Complexity_Enhancement_B
+ased_on_Dark_Channel/Valentine_11.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/OutputImages/Low_Comp
+lexity_Enhancement_Based_on_Dark_Channel/Valentine_11.png  used on input line 5
+61.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 561--561
+ []|[]| 
+ []
+
+File: ../Underwater-Image-Enhancements/InputImages/Valentine_12.png Graphic fil
+e (type png)
+<use ../Underwater-Image-Enhancements/InputImages/Valentine_12.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/InputImages/Valentine
+_12.png  used on input line 561.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 561--561
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/OutputImages/Blue_green_channels_dehazing_and
+_red_channel_correction/Valentine_12.png, id=549, 546.04pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/OutputImages/Blue_green_channels_dehazin
+g_and_red_channel_correction/Valentine_12.png Graphic file (type png)
+<use ../Underwater-Image-Enhancements/OutputImages/Blue_green_channels_dehazing
+_and_red_channel_correction/Valentine_12.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/OutputImages/Blue_gre
+en_channels_dehazing_and_red_channel_correction/Valentine_12.png  used on input
+ line 561.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 561--561
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/OutputImages/Color_Balance_and_fusion/Valenti
+ne_12.png, id=550, 546.04pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/OutputImages/Color_Balance_and_fusion/Va
+lentine_12.png Graphic file (type png)
+<use ../Underwater-Image-Enhancements/OutputImages/Color_Balance_and_fusion/Val
+entine_12.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/OutputImages/Color_Ba
+lance_and_fusion/Valentine_12.png  used on input line 561.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 561--561
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/OutputImages/Integrated_Color_Model/Valentine
+_12.png, id=551, 546.04pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/OutputImages/Integrated_Color_Model/Vale
+ntine_12.png Graphic file (type png)
+<use ../Underwater-Image-Enhancements/OutputImages/Integrated_Color_Model/Valen
+tine_12.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/OutputImages/Integrat
+ed_Color_Model/Valentine_12.png  used on input line 561.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 561--561
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/OutputImages/Low_Complexity_Enhancement_Based
+_on_Dark_Channel/Valentine_12.png, id=552, 546.04pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/OutputImages/Low_Complexity_Enhancement_
+Based_on_Dark_Channel/Valentine_12.png Graphic file (type png)
+<use ../Underwater-Image-Enhancements/OutputImages/Low_Complexity_Enhancement_B
+ased_on_Dark_Channel/Valentine_12.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/OutputImages/Low_Comp
+lexity_Enhancement_Based_on_Dark_Channel/Valentine_12.png  used on input line 5
+61.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 561--561
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/InputImages/Valentine_59.png, id=561, 546.04p
+t x 413.545pt>
+File: ../Underwater-Image-Enhancements/InputImages/Valentine_59.png Graphic fil
+e (type png)
+<use ../Underwater-Image-Enhancements/InputImages/Valentine_59.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/InputImages/Valentine
+_59.png  used on input line 578.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 578--578
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/OutputImages/Blue_green_channels_dehazing_and
+_red_channel_correction/Valentine_59.png, id=562, 546.04pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/OutputImages/Blue_green_channels_dehazin
+g_and_red_channel_correction/Valentine_59.png Graphic file (type png)
+<use ../Underwater-Image-Enhancements/OutputImages/Blue_green_channels_dehazing
+_and_red_channel_correction/Valentine_59.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/OutputImages/Blue_gre
+en_channels_dehazing_and_red_channel_correction/Valentine_59.png  used on input
+ line 578.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 578--578
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/OutputImages/Color_Balance_and_fusion/Valenti
+ne_59.png, id=563, 546.04pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/OutputImages/Color_Balance_and_fusion/Va
+lentine_59.png Graphic file (type png)
+<use ../Underwater-Image-Enhancements/OutputImages/Color_Balance_and_fusion/Val
+entine_59.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/OutputImages/Color_Ba
+lance_and_fusion/Valentine_59.png  used on input line 578.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 578--578
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/OutputImages/Integrated_Color_Model/Valentine
+_59.png, id=564, 546.04pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/OutputImages/Integrated_Color_Model/Vale
+ntine_59.png Graphic file (type png)
+<use ../Underwater-Image-Enhancements/OutputImages/Integrated_Color_Model/Valen
+tine_59.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/OutputImages/Integrat
+ed_Color_Model/Valentine_59.png  used on input line 578.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 578--578
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/OutputImages/Low_Complexity_Enhancement_Based
+_on_Dark_Channel/Valentine_59.png, id=565, 546.04pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/OutputImages/Low_Complexity_Enhancement_
+Based_on_Dark_Channel/Valentine_59.png Graphic file (type png)
+<use ../Underwater-Image-Enhancements/OutputImages/Low_Complexity_Enhancement_B
+ased_on_Dark_Channel/Valentine_59.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/OutputImages/Low_Comp
+lexity_Enhancement_Based_on_Dark_Channel/Valentine_59.png  used on input line 5
+78.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 578--578
+ []|[]| 
+ []
+
+File: ../Underwater-Image-Enhancements/InputImages/Valentine_60.png Graphic fil
+e (type png)
+<use ../Underwater-Image-Enhancements/InputImages/Valentine_60.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/InputImages/Valentine
+_60.png  used on input line 578.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 578--578
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/OutputImages/Blue_green_channels_dehazing_and
+_red_channel_correction/Valentine_60.png, id=566, 546.04pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/OutputImages/Blue_green_channels_dehazin
+g_and_red_channel_correction/Valentine_60.png Graphic file (type png)
+<use ../Underwater-Image-Enhancements/OutputImages/Blue_green_channels_dehazing
+_and_red_channel_correction/Valentine_60.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/OutputImages/Blue_gre
+en_channels_dehazing_and_red_channel_correction/Valentine_60.png  used on input
+ line 578.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 578--578
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/OutputImages/Color_Balance_and_fusion/Valenti
+ne_60.png, id=567, 546.04pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/OutputImages/Color_Balance_and_fusion/Va
+lentine_60.png Graphic file (type png)
+<use ../Underwater-Image-Enhancements/OutputImages/Color_Balance_and_fusion/Val
+entine_60.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/OutputImages/Color_Ba
+lance_and_fusion/Valentine_60.png  used on input line 578.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 578--578
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/OutputImages/Integrated_Color_Model/Valentine
+_60.png, id=568, 546.04pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/OutputImages/Integrated_Color_Model/Vale
+ntine_60.png Graphic file (type png)
+<use ../Underwater-Image-Enhancements/OutputImages/Integrated_Color_Model/Valen
+tine_60.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/OutputImages/Integrat
+ed_Color_Model/Valentine_60.png  used on input line 578.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 578--578
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/OutputImages/Low_Complexity_Enhancement_Based
+_on_Dark_Channel/Valentine_60.png, id=569, 546.04pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/OutputImages/Low_Complexity_Enhancement_
+Based_on_Dark_Channel/Valentine_60.png Graphic file (type png)
+<use ../Underwater-Image-Enhancements/OutputImages/Low_Complexity_Enhancement_B
+ased_on_Dark_Channel/Valentine_60.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/OutputImages/Low_Comp
+lexity_Enhancement_Based_on_Dark_Channel/Valentine_60.png  used on input line 5
+78.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 578--578
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/InputImages/Valentine_61.png, id=570, 546.04p
+t x 413.545pt>
+File: ../Underwater-Image-Enhancements/InputImages/Valentine_61.png Graphic fil
+e (type png)
+<use ../Underwater-Image-Enhancements/InputImages/Valentine_61.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/InputImages/Valentine
+_61.png  used on input line 578.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 578--578
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/OutputImages/Blue_green_channels_dehazing_and
+_red_channel_correction/Valentine_61.png, id=571, 546.04pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/OutputImages/Blue_green_channels_dehazin
+g_and_red_channel_correction/Valentine_61.png Graphic file (type png)
+<use ../Underwater-Image-Enhancements/OutputImages/Blue_green_channels_dehazing
+_and_red_channel_correction/Valentine_61.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/OutputImages/Blue_gre
+en_channels_dehazing_and_red_channel_correction/Valentine_61.png  used on input
+ line 578.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 578--578
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/OutputImages/Color_Balance_and_fusion/Valenti
+ne_61.png, id=572, 546.04pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/OutputImages/Color_Balance_and_fusion/Va
+lentine_61.png Graphic file (type png)
+<use ../Underwater-Image-Enhancements/OutputImages/Color_Balance_and_fusion/Val
+entine_61.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/OutputImages/Color_Ba
+lance_and_fusion/Valentine_61.png  used on input line 578.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 578--578
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/OutputImages/Integrated_Color_Model/Valentine
+_61.png, id=573, 546.04pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/OutputImages/Integrated_Color_Model/Vale
+ntine_61.png Graphic file (type png)
+<use ../Underwater-Image-Enhancements/OutputImages/Integrated_Color_Model/Valen
+tine_61.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/OutputImages/Integrat
+ed_Color_Model/Valentine_61.png  used on input line 578.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 578--578
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/OutputImages/Low_Complexity_Enhancement_Based
+_on_Dark_Channel/Valentine_61.png, id=574, 546.04pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/OutputImages/Low_Complexity_Enhancement_
+Based_on_Dark_Channel/Valentine_61.png Graphic file (type png)
+<use ../Underwater-Image-Enhancements/OutputImages/Low_Complexity_Enhancement_B
+ased_on_Dark_Channel/Valentine_61.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/OutputImages/Low_Comp
+lexity_Enhancement_Based_on_Dark_Channel/Valentine_61.png  used on input line 5
+78.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 578--578
+ []|[]| 
+ []
+
+File: ../Underwater-Image-Enhancements/InputImages/Valentine_62.png Graphic fil
+e (type png)
+<use ../Underwater-Image-Enhancements/InputImages/Valentine_62.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/InputImages/Valentine
+_62.png  used on input line 578.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 578--578
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/OutputImages/Blue_green_channels_dehazing_and
+_red_channel_correction/Valentine_62.png, id=575, 546.04pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/OutputImages/Blue_green_channels_dehazin
+g_and_red_channel_correction/Valentine_62.png Graphic file (type png)
+<use ../Underwater-Image-Enhancements/OutputImages/Blue_green_channels_dehazing
+_and_red_channel_correction/Valentine_62.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/OutputImages/Blue_gre
+en_channels_dehazing_and_red_channel_correction/Valentine_62.png  used on input
+ line 578.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 578--578
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/OutputImages/Color_Balance_and_fusion/Valenti
+ne_62.png, id=576, 546.04pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/OutputImages/Color_Balance_and_fusion/Va
+lentine_62.png Graphic file (type png)
+<use ../Underwater-Image-Enhancements/OutputImages/Color_Balance_and_fusion/Val
+entine_62.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/OutputImages/Color_Ba
+lance_and_fusion/Valentine_62.png  used on input line 578.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 578--578
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/OutputImages/Integrated_Color_Model/Valentine
+_62.png, id=577, 546.04pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/OutputImages/Integrated_Color_Model/Vale
+ntine_62.png Graphic file (type png)
+<use ../Underwater-Image-Enhancements/OutputImages/Integrated_Color_Model/Valen
+tine_62.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/OutputImages/Integrat
+ed_Color_Model/Valentine_62.png  used on input line 578.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 578--578
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/OutputImages/Low_Complexity_Enhancement_Based
+_on_Dark_Channel/Valentine_62.png, id=578, 546.04pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/OutputImages/Low_Complexity_Enhancement_
+Based_on_Dark_Channel/Valentine_62.png Graphic file (type png)
+<use ../Underwater-Image-Enhancements/OutputImages/Low_Complexity_Enhancement_B
+ased_on_Dark_Channel/Valentine_62.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/OutputImages/Low_Comp
+lexity_Enhancement_Based_on_Dark_Channel/Valentine_62.png  used on input line 5
+78.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 578--578
+ []|[]| 
+ []
+
+File: ../Underwater-Image-Enhancements/InputImages/Valentine_63.png Graphic fil
+e (type png)
+<use ../Underwater-Image-Enhancements/InputImages/Valentine_63.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/InputImages/Valentine
+_63.png  used on input line 578.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 578--578
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/OutputImages/Blue_green_channels_dehazing_and
+_red_channel_correction/Valentine_63.png, id=579, 546.04pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/OutputImages/Blue_green_channels_dehazin
+g_and_red_channel_correction/Valentine_63.png Graphic file (type png)
+<use ../Underwater-Image-Enhancements/OutputImages/Blue_green_channels_dehazing
+_and_red_channel_correction/Valentine_63.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/OutputImages/Blue_gre
+en_channels_dehazing_and_red_channel_correction/Valentine_63.png  used on input
+ line 578.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 578--578
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/OutputImages/Color_Balance_and_fusion/Valenti
+ne_63.png, id=580, 546.04pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/OutputImages/Color_Balance_and_fusion/Va
+lentine_63.png Graphic file (type png)
+<use ../Underwater-Image-Enhancements/OutputImages/Color_Balance_and_fusion/Val
+entine_63.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/OutputImages/Color_Ba
+lance_and_fusion/Valentine_63.png  used on input line 578.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 578--578
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/OutputImages/Integrated_Color_Model/Valentine
+_63.png, id=581, 546.04pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/OutputImages/Integrated_Color_Model/Vale
+ntine_63.png Graphic file (type png)
+<use ../Underwater-Image-Enhancements/OutputImages/Integrated_Color_Model/Valen
+tine_63.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/OutputImages/Integrat
+ed_Color_Model/Valentine_63.png  used on input line 578.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 578--578
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/OutputImages/Low_Complexity_Enhancement_Based
+_on_Dark_Channel/Valentine_63.png, id=582, 546.04pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/OutputImages/Low_Complexity_Enhancement_
+Based_on_Dark_Channel/Valentine_63.png Graphic file (type png)
+<use ../Underwater-Image-Enhancements/OutputImages/Low_Complexity_Enhancement_B
+ased_on_Dark_Channel/Valentine_63.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/OutputImages/Low_Comp
+lexity_Enhancement_Based_on_Dark_Channel/Valentine_63.png  used on input line 5
+78.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 578--578
+ []|[]| 
+ []
+
+[18]
+<../Underwater-Image-Enhancements/InputImages/Valentine_124.png, id=600, 546.04
+pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/InputImages/Valentine_124.png Graphic fi
+le (type png)
+<use ../Underwater-Image-Enhancements/InputImages/Valentine_124.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/InputImages/Valentine
+_124.png  used on input line 601.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 601--601
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/OutputImages/Blue_green_channels_dehazing_and
+_red_channel_correction/Valentine_124.png, id=601, 546.04pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/OutputImages/Blue_green_channels_dehazin
+g_and_red_channel_correction/Valentine_124.png Graphic file (type png)
+<use ../Underwater-Image-Enhancements/OutputImages/Blue_green_channels_dehazing
+_and_red_channel_correction/Valentine_124.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/OutputImages/Blue_gre
+en_channels_dehazing_and_red_channel_correction/Valentine_124.png  used on inpu
+t line 601.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 601--601
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/OutputImages/Color_Balance_and_fusion/Valenti
+ne_124.png, id=602, 546.04pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/OutputImages/Color_Balance_and_fusion/Va
+lentine_124.png Graphic file (type png)
+<use ../Underwater-Image-Enhancements/OutputImages/Color_Balance_and_fusion/Val
+entine_124.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/OutputImages/Color_Ba
+lance_and_fusion/Valentine_124.png  used on input line 601.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 601--601
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/OutputImages/Integrated_Color_Model/Valentine
+_124.png, id=603, 546.04pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/OutputImages/Integrated_Color_Model/Vale
+ntine_124.png Graphic file (type png)
+<use ../Underwater-Image-Enhancements/OutputImages/Integrated_Color_Model/Valen
+tine_124.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/OutputImages/Integrat
+ed_Color_Model/Valentine_124.png  used on input line 601.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 601--601
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/OutputImages/Low_Complexity_Enhancement_Based
+_on_Dark_Channel/Valentine_124.png, id=604, 546.04pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/OutputImages/Low_Complexity_Enhancement_
+Based_on_Dark_Channel/Valentine_124.png Graphic file (type png)
+<use ../Underwater-Image-Enhancements/OutputImages/Low_Complexity_Enhancement_B
+ased_on_Dark_Channel/Valentine_124.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/OutputImages/Low_Comp
+lexity_Enhancement_Based_on_Dark_Channel/Valentine_124.png  used on input line 
+601.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 601--601
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/InputImages/Valentine_125.png, id=605, 546.04
+pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/InputImages/Valentine_125.png Graphic fi
+le (type png)
+<use ../Underwater-Image-Enhancements/InputImages/Valentine_125.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/InputImages/Valentine
+_125.png  used on input line 601.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 601--601
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/OutputImages/Blue_green_channels_dehazing_and
+_red_channel_correction/Valentine_125.png, id=606, 546.04pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/OutputImages/Blue_green_channels_dehazin
+g_and_red_channel_correction/Valentine_125.png Graphic file (type png)
+<use ../Underwater-Image-Enhancements/OutputImages/Blue_green_channels_dehazing
+_and_red_channel_correction/Valentine_125.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/OutputImages/Blue_gre
+en_channels_dehazing_and_red_channel_correction/Valentine_125.png  used on inpu
+t line 601.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 601--601
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/OutputImages/Color_Balance_and_fusion/Valenti
+ne_125.png, id=607, 546.04pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/OutputImages/Color_Balance_and_fusion/Va
+lentine_125.png Graphic file (type png)
+<use ../Underwater-Image-Enhancements/OutputImages/Color_Balance_and_fusion/Val
+entine_125.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/OutputImages/Color_Ba
+lance_and_fusion/Valentine_125.png  used on input line 601.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 601--601
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/OutputImages/Integrated_Color_Model/Valentine
+_125.png, id=608, 546.04pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/OutputImages/Integrated_Color_Model/Vale
+ntine_125.png Graphic file (type png)
+<use ../Underwater-Image-Enhancements/OutputImages/Integrated_Color_Model/Valen
+tine_125.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/OutputImages/Integrat
+ed_Color_Model/Valentine_125.png  used on input line 601.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 601--601
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/OutputImages/Low_Complexity_Enhancement_Based
+_on_Dark_Channel/Valentine_125.png, id=609, 546.04pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/OutputImages/Low_Complexity_Enhancement_
+Based_on_Dark_Channel/Valentine_125.png Graphic file (type png)
+<use ../Underwater-Image-Enhancements/OutputImages/Low_Complexity_Enhancement_B
+ased_on_Dark_Channel/Valentine_125.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/OutputImages/Low_Comp
+lexity_Enhancement_Based_on_Dark_Channel/Valentine_125.png  used on input line 
+601.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 601--601
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/InputImages/Valentine_126.png, id=610, 546.04
+pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/InputImages/Valentine_126.png Graphic fi
+le (type png)
+<use ../Underwater-Image-Enhancements/InputImages/Valentine_126.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/InputImages/Valentine
+_126.png  used on input line 601.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 601--601
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/OutputImages/Blue_green_channels_dehazing_and
+_red_channel_correction/Valentine_126.png, id=611, 546.04pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/OutputImages/Blue_green_channels_dehazin
+g_and_red_channel_correction/Valentine_126.png Graphic file (type png)
+<use ../Underwater-Image-Enhancements/OutputImages/Blue_green_channels_dehazing
+_and_red_channel_correction/Valentine_126.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/OutputImages/Blue_gre
+en_channels_dehazing_and_red_channel_correction/Valentine_126.png  used on inpu
+t line 601.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 601--601
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/OutputImages/Color_Balance_and_fusion/Valenti
+ne_126.png, id=612, 546.04pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/OutputImages/Color_Balance_and_fusion/Va
+lentine_126.png Graphic file (type png)
+<use ../Underwater-Image-Enhancements/OutputImages/Color_Balance_and_fusion/Val
+entine_126.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/OutputImages/Color_Ba
+lance_and_fusion/Valentine_126.png  used on input line 601.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 601--601
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/OutputImages/Integrated_Color_Model/Valentine
+_126.png, id=613, 546.04pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/OutputImages/Integrated_Color_Model/Vale
+ntine_126.png Graphic file (type png)
+<use ../Underwater-Image-Enhancements/OutputImages/Integrated_Color_Model/Valen
+tine_126.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/OutputImages/Integrat
+ed_Color_Model/Valentine_126.png  used on input line 601.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 601--601
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/OutputImages/Low_Complexity_Enhancement_Based
+_on_Dark_Channel/Valentine_126.png, id=614, 546.04pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/OutputImages/Low_Complexity_Enhancement_
+Based_on_Dark_Channel/Valentine_126.png Graphic file (type png)
+<use ../Underwater-Image-Enhancements/OutputImages/Low_Complexity_Enhancement_B
+ased_on_Dark_Channel/Valentine_126.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/OutputImages/Low_Comp
+lexity_Enhancement_Based_on_Dark_Channel/Valentine_126.png  used on input line 
+601.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 601--601
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/InputImages/Valentine_127.png, id=615, 546.04
+pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/InputImages/Valentine_127.png Graphic fi
+le (type png)
+<use ../Underwater-Image-Enhancements/InputImages/Valentine_127.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/InputImages/Valentine
+_127.png  used on input line 601.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 601--601
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/OutputImages/Blue_green_channels_dehazing_and
+_red_channel_correction/Valentine_127.png, id=616, 546.04pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/OutputImages/Blue_green_channels_dehazin
+g_and_red_channel_correction/Valentine_127.png Graphic file (type png)
+<use ../Underwater-Image-Enhancements/OutputImages/Blue_green_channels_dehazing
+_and_red_channel_correction/Valentine_127.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/OutputImages/Blue_gre
+en_channels_dehazing_and_red_channel_correction/Valentine_127.png  used on inpu
+t line 601.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 601--601
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/OutputImages/Color_Balance_and_fusion/Valenti
+ne_127.png, id=617, 546.04pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/OutputImages/Color_Balance_and_fusion/Va
+lentine_127.png Graphic file (type png)
+<use ../Underwater-Image-Enhancements/OutputImages/Color_Balance_and_fusion/Val
+entine_127.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/OutputImages/Color_Ba
+lance_and_fusion/Valentine_127.png  used on input line 601.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 601--601
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/OutputImages/Integrated_Color_Model/Valentine
+_127.png, id=618, 546.04pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/OutputImages/Integrated_Color_Model/Vale
+ntine_127.png Graphic file (type png)
+<use ../Underwater-Image-Enhancements/OutputImages/Integrated_Color_Model/Valen
+tine_127.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/OutputImages/Integrat
+ed_Color_Model/Valentine_127.png  used on input line 601.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 601--601
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/OutputImages/Low_Complexity_Enhancement_Based
+_on_Dark_Channel/Valentine_127.png, id=619, 546.04pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/OutputImages/Low_Complexity_Enhancement_
+Based_on_Dark_Channel/Valentine_127.png Graphic file (type png)
+<use ../Underwater-Image-Enhancements/OutputImages/Low_Complexity_Enhancement_B
+ased_on_Dark_Channel/Valentine_127.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/OutputImages/Low_Comp
+lexity_Enhancement_Based_on_Dark_Channel/Valentine_127.png  used on input line 
+601.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 601--601
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/InputImages/Valentine_128.png, id=620, 546.04
+pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/InputImages/Valentine_128.png Graphic fi
+le (type png)
+<use ../Underwater-Image-Enhancements/InputImages/Valentine_128.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/InputImages/Valentine
+_128.png  used on input line 601.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 601--601
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/OutputImages/Blue_green_channels_dehazing_and
+_red_channel_correction/Valentine_128.png, id=621, 546.04pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/OutputImages/Blue_green_channels_dehazin
+g_and_red_channel_correction/Valentine_128.png Graphic file (type png)
+<use ../Underwater-Image-Enhancements/OutputImages/Blue_green_channels_dehazing
+_and_red_channel_correction/Valentine_128.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/OutputImages/Blue_gre
+en_channels_dehazing_and_red_channel_correction/Valentine_128.png  used on inpu
+t line 601.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 601--601
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/OutputImages/Color_Balance_and_fusion/Valenti
+ne_128.png, id=622, 546.04pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/OutputImages/Color_Balance_and_fusion/Va
+lentine_128.png Graphic file (type png)
+<use ../Underwater-Image-Enhancements/OutputImages/Color_Balance_and_fusion/Val
+entine_128.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/OutputImages/Color_Ba
+lance_and_fusion/Valentine_128.png  used on input line 601.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 601--601
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/OutputImages/Integrated_Color_Model/Valentine
+_128.png, id=623, 546.04pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/OutputImages/Integrated_Color_Model/Vale
+ntine_128.png Graphic file (type png)
+<use ../Underwater-Image-Enhancements/OutputImages/Integrated_Color_Model/Valen
+tine_128.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/OutputImages/Integrat
+ed_Color_Model/Valentine_128.png  used on input line 601.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 601--601
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/OutputImages/Low_Complexity_Enhancement_Based
+_on_Dark_Channel/Valentine_128.png, id=624, 546.04pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/OutputImages/Low_Complexity_Enhancement_
+Based_on_Dark_Channel/Valentine_128.png Graphic file (type png)
+<use ../Underwater-Image-Enhancements/OutputImages/Low_Complexity_Enhancement_B
+ased_on_Dark_Channel/Valentine_128.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/OutputImages/Low_Comp
+lexity_Enhancement_Based_on_Dark_Channel/Valentine_128.png  used on input line 
+601.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 601--601
+ []|[]| 
+ []
+
+File: ../Underwater-Image-Enhancements/InputImages/Valentine_129.png Graphic fi
+le (type png)
+<use ../Underwater-Image-Enhancements/InputImages/Valentine_129.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/InputImages/Valentine
+_129.png  used on input line 601.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 601--601
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/OutputImages/Blue_green_channels_dehazing_and
+_red_channel_correction/Valentine_129.png, id=625, 546.04pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/OutputImages/Blue_green_channels_dehazin
+g_and_red_channel_correction/Valentine_129.png Graphic file (type png)
+<use ../Underwater-Image-Enhancements/OutputImages/Blue_green_channels_dehazing
+_and_red_channel_correction/Valentine_129.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/OutputImages/Blue_gre
+en_channels_dehazing_and_red_channel_correction/Valentine_129.png  used on inpu
+t line 601.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 601--601
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/OutputImages/Color_Balance_and_fusion/Valenti
+ne_129.png, id=626, 546.04pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/OutputImages/Color_Balance_and_fusion/Va
+lentine_129.png Graphic file (type png)
+<use ../Underwater-Image-Enhancements/OutputImages/Color_Balance_and_fusion/Val
+entine_129.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/OutputImages/Color_Ba
+lance_and_fusion/Valentine_129.png  used on input line 601.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 601--601
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/OutputImages/Integrated_Color_Model/Valentine
+_129.png, id=627, 546.04pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/OutputImages/Integrated_Color_Model/Vale
+ntine_129.png Graphic file (type png)
+<use ../Underwater-Image-Enhancements/OutputImages/Integrated_Color_Model/Valen
+tine_129.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/OutputImages/Integrat
+ed_Color_Model/Valentine_129.png  used on input line 601.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 601--601
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/OutputImages/Low_Complexity_Enhancement_Based
+_on_Dark_Channel/Valentine_129.png, id=628, 546.04pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/OutputImages/Low_Complexity_Enhancement_
+Based_on_Dark_Channel/Valentine_129.png Graphic file (type png)
+<use ../Underwater-Image-Enhancements/OutputImages/Low_Complexity_Enhancement_B
+ased_on_Dark_Channel/Valentine_129.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/OutputImages/Low_Comp
+lexity_Enhancement_Based_on_Dark_Channel/Valentine_129.png  used on input line 
+601.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 601--601
+ []|[]| 
+ []
+
+File: ../Underwater-Image-Enhancements/InputImages/Valentine_130.png Graphic fi
+le (type png)
+<use ../Underwater-Image-Enhancements/InputImages/Valentine_130.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/InputImages/Valentine
+_130.png  used on input line 601.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 601--601
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/OutputImages/Blue_green_channels_dehazing_and
+_red_channel_correction/Valentine_130.png, id=629, 546.04pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/OutputImages/Blue_green_channels_dehazin
+g_and_red_channel_correction/Valentine_130.png Graphic file (type png)
+<use ../Underwater-Image-Enhancements/OutputImages/Blue_green_channels_dehazing
+_and_red_channel_correction/Valentine_130.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/OutputImages/Blue_gre
+en_channels_dehazing_and_red_channel_correction/Valentine_130.png  used on inpu
+t line 601.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 601--601
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/OutputImages/Color_Balance_and_fusion/Valenti
+ne_130.png, id=630, 546.04pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/OutputImages/Color_Balance_and_fusion/Va
+lentine_130.png Graphic file (type png)
+<use ../Underwater-Image-Enhancements/OutputImages/Color_Balance_and_fusion/Val
+entine_130.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/OutputImages/Color_Ba
+lance_and_fusion/Valentine_130.png  used on input line 601.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 601--601
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/OutputImages/Integrated_Color_Model/Valentine
+_130.png, id=631, 546.04pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/OutputImages/Integrated_Color_Model/Vale
+ntine_130.png Graphic file (type png)
+<use ../Underwater-Image-Enhancements/OutputImages/Integrated_Color_Model/Valen
+tine_130.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/OutputImages/Integrat
+ed_Color_Model/Valentine_130.png  used on input line 601.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 601--601
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/OutputImages/Low_Complexity_Enhancement_Based
+_on_Dark_Channel/Valentine_130.png, id=632, 546.04pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/OutputImages/Low_Complexity_Enhancement_
+Based_on_Dark_Channel/Valentine_130.png Graphic file (type png)
+<use ../Underwater-Image-Enhancements/OutputImages/Low_Complexity_Enhancement_B
+ased_on_Dark_Channel/Valentine_130.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/OutputImages/Low_Comp
+lexity_Enhancement_Based_on_Dark_Channel/Valentine_130.png  used on input line 
+601.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 601--601
+ []|[]| 
+ []
+
+File: ../Underwater-Image-Enhancements/InputImages/Valentine_131.png Graphic fi
+le (type png)
+<use ../Underwater-Image-Enhancements/InputImages/Valentine_131.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/InputImages/Valentine
+_131.png  used on input line 601.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 601--601
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/OutputImages/Blue_green_channels_dehazing_and
+_red_channel_correction/Valentine_131.png, id=633, 546.04pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/OutputImages/Blue_green_channels_dehazin
+g_and_red_channel_correction/Valentine_131.png Graphic file (type png)
+<use ../Underwater-Image-Enhancements/OutputImages/Blue_green_channels_dehazing
+_and_red_channel_correction/Valentine_131.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/OutputImages/Blue_gre
+en_channels_dehazing_and_red_channel_correction/Valentine_131.png  used on inpu
+t line 601.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 601--601
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/OutputImages/Color_Balance_and_fusion/Valenti
+ne_131.png, id=634, 546.04pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/OutputImages/Color_Balance_and_fusion/Va
+lentine_131.png Graphic file (type png)
+<use ../Underwater-Image-Enhancements/OutputImages/Color_Balance_and_fusion/Val
+entine_131.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/OutputImages/Color_Ba
+lance_and_fusion/Valentine_131.png  used on input line 601.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 601--601
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/OutputImages/Integrated_Color_Model/Valentine
+_131.png, id=635, 546.04pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/OutputImages/Integrated_Color_Model/Vale
+ntine_131.png Graphic file (type png)
+<use ../Underwater-Image-Enhancements/OutputImages/Integrated_Color_Model/Valen
+tine_131.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/OutputImages/Integrat
+ed_Color_Model/Valentine_131.png  used on input line 601.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 601--601
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/OutputImages/Low_Complexity_Enhancement_Based
+_on_Dark_Channel/Valentine_131.png, id=636, 546.04pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/OutputImages/Low_Complexity_Enhancement_
+Based_on_Dark_Channel/Valentine_131.png Graphic file (type png)
+<use ../Underwater-Image-Enhancements/OutputImages/Low_Complexity_Enhancement_B
+ased_on_Dark_Channel/Valentine_131.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/OutputImages/Low_Comp
+lexity_Enhancement_Based_on_Dark_Channel/Valentine_131.png  used on input line 
+601.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 601--601
+ []|[]| 
+ []
+
+[19 <../Underwater-Image-Enhancements/InputImages/Valentine_8.png> <../Underwat
+er-Image-Enhancements/OutputImages/Blue_green_channels_dehazing_and_red_channel
+_correction/Valentine_8.png (PNG copy)> <../Underwater-Image-Enhancements/Outpu
+tImages/Color_Balance_and_fusion/Valentine_8.png (PNG copy)> <../Underwater-Ima
+ge-Enhancements/OutputImages/Integrated_Color_Model/Valentine_8.png (PNG copy)>
+ <../Underwater-Image-Enhancements/OutputImages/Low_Complexity_Enhancement_Base
+d_on_Dark_Channel/Valentine_8.png (PNG copy)> <../Underwater-Image-Enhancements
+/InputImages/Valentine_9.png> <../Underwater-Image-Enhancements/OutputImages/Bl
+ue_green_channels_dehazing_and_red_channel_correction/Valentine_9.png (PNG copy
+)> <../Underwater-Image-Enhancements/OutputImages/Color_Balance_and_fusion/Vale
+ntine_9.png (PNG copy)> <../Underwater-Image-Enhancements/OutputImages/Integrat
+ed_Color_Model/Valentine_9.png (PNG copy)> <../Underwater-Image-Enhancements/Ou
+tputImages/Low_Complexity_Enhancement_Based_on_Dark_Channel/Valentine_9.png (PN
+G copy)> <../Underwater-Image-Enhancements/OutputImages/Blue_green_channels_deh
+azing_and_red_channel_correction/Valentine_10.png (PNG copy)> <../Underwater-Im
+age-Enhancements/OutputImages/Color_Balance_and_fusion/Valentine_10.png (PNG co
+py)> <../Underwater-Image-Enhancements/OutputImages/Integrated_Color_Model/Vale
+ntine_10.png (PNG copy)> <../Underwater-Image-Enhancements/OutputImages/Low_Com
+plexity_Enhancement_Based_on_Dark_Channel/Valentine_10.png (PNG copy)> <../Unde
+rwater-Image-Enhancements/OutputImages/Blue_green_channels_dehazing_and_red_cha
+nnel_correction/Valentine_11.png (PNG copy)> <../Underwater-Image-Enhancements/
+OutputImages/Color_Balance_and_fusion/Valentine_11.png (PNG copy)> <../Underwat
+er-Image-Enhancements/OutputImages/Integrated_Color_Model/Valentine_11.png (PNG
+ copy)> <../Underwater-Image-Enhancements/OutputImages/Low_Complexity_Enhanceme
+nt_Based_on_Dark_Channel/Valentine_11.png (PNG copy)> <../Underwater-Image-Enha
+ncements/OutputImages/Blue_green_channels_dehazing_and_red_channel_correction/V
+alentine_12.png (PNG copy)> <../Underwater-Image-Enhancements/OutputImages/Colo
+r_Balance_and_fusion/Valentine_12.png (PNG copy)> <../Underwater-Image-Enhancem
+ents/OutputImages/Integrated_Color_Model/Valentine_12.png (PNG copy)> <../Under
+water-Image-Enhancements/OutputImages/Low_Complexity_Enhancement_Based_on_Dark_
+Channel/Valentine_12.png (PNG copy)>]
+<../Underwater-Image-Enhancements/InputImages/Valentine_190.png, id=649, 546.04
+pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/InputImages/Valentine_190.png Graphic fi
+le (type png)
+<use ../Underwater-Image-Enhancements/InputImages/Valentine_190.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/InputImages/Valentine
+_190.png  used on input line 624.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 624--624
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/OutputImages/Blue_green_channels_dehazing_and
+_red_channel_correction/Valentine_190.png, id=650, 546.04pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/OutputImages/Blue_green_channels_dehazin
+g_and_red_channel_correction/Valentine_190.png Graphic file (type png)
+<use ../Underwater-Image-Enhancements/OutputImages/Blue_green_channels_dehazing
+_and_red_channel_correction/Valentine_190.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/OutputImages/Blue_gre
+en_channels_dehazing_and_red_channel_correction/Valentine_190.png  used on inpu
+t line 624.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 624--624
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/OutputImages/Color_Balance_and_fusion/Valenti
+ne_190.png, id=651, 546.04pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/OutputImages/Color_Balance_and_fusion/Va
+lentine_190.png Graphic file (type png)
+<use ../Underwater-Image-Enhancements/OutputImages/Color_Balance_and_fusion/Val
+entine_190.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/OutputImages/Color_Ba
+lance_and_fusion/Valentine_190.png  used on input line 624.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 624--624
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/OutputImages/Integrated_Color_Model/Valentine
+_190.png, id=652, 546.04pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/OutputImages/Integrated_Color_Model/Vale
+ntine_190.png Graphic file (type png)
+<use ../Underwater-Image-Enhancements/OutputImages/Integrated_Color_Model/Valen
+tine_190.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/OutputImages/Integrat
+ed_Color_Model/Valentine_190.png  used on input line 624.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 624--624
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/OutputImages/Low_Complexity_Enhancement_Based
+_on_Dark_Channel/Valentine_190.png, id=653, 546.04pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/OutputImages/Low_Complexity_Enhancement_
+Based_on_Dark_Channel/Valentine_190.png Graphic file (type png)
+<use ../Underwater-Image-Enhancements/OutputImages/Low_Complexity_Enhancement_B
+ased_on_Dark_Channel/Valentine_190.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/OutputImages/Low_Comp
+lexity_Enhancement_Based_on_Dark_Channel/Valentine_190.png  used on input line 
+624.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 624--624
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/InputImages/Valentine_191.png, id=654, 546.04
+pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/InputImages/Valentine_191.png Graphic fi
+le (type png)
+<use ../Underwater-Image-Enhancements/InputImages/Valentine_191.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/InputImages/Valentine
+_191.png  used on input line 624.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 624--624
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/OutputImages/Blue_green_channels_dehazing_and
+_red_channel_correction/Valentine_191.png, id=655, 546.04pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/OutputImages/Blue_green_channels_dehazin
+g_and_red_channel_correction/Valentine_191.png Graphic file (type png)
+<use ../Underwater-Image-Enhancements/OutputImages/Blue_green_channels_dehazing
+_and_red_channel_correction/Valentine_191.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/OutputImages/Blue_gre
+en_channels_dehazing_and_red_channel_correction/Valentine_191.png  used on inpu
+t line 624.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 624--624
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/OutputImages/Color_Balance_and_fusion/Valenti
+ne_191.png, id=656, 546.04pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/OutputImages/Color_Balance_and_fusion/Va
+lentine_191.png Graphic file (type png)
+<use ../Underwater-Image-Enhancements/OutputImages/Color_Balance_and_fusion/Val
+entine_191.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/OutputImages/Color_Ba
+lance_and_fusion/Valentine_191.png  used on input line 624.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 624--624
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/OutputImages/Integrated_Color_Model/Valentine
+_191.png, id=657, 546.04pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/OutputImages/Integrated_Color_Model/Vale
+ntine_191.png Graphic file (type png)
+<use ../Underwater-Image-Enhancements/OutputImages/Integrated_Color_Model/Valen
+tine_191.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/OutputImages/Integrat
+ed_Color_Model/Valentine_191.png  used on input line 624.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 624--624
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/OutputImages/Low_Complexity_Enhancement_Based
+_on_Dark_Channel/Valentine_191.png, id=658, 546.04pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/OutputImages/Low_Complexity_Enhancement_
+Based_on_Dark_Channel/Valentine_191.png Graphic file (type png)
+<use ../Underwater-Image-Enhancements/OutputImages/Low_Complexity_Enhancement_B
+ased_on_Dark_Channel/Valentine_191.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/OutputImages/Low_Comp
+lexity_Enhancement_Based_on_Dark_Channel/Valentine_191.png  used on input line 
+624.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 624--624
+ []|[]| 
+ []
+
+File: ../Underwater-Image-Enhancements/InputImages/Valentine_192.png Graphic fi
+le (type png)
+<use ../Underwater-Image-Enhancements/InputImages/Valentine_192.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/InputImages/Valentine
+_192.png  used on input line 624.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 624--624
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/OutputImages/Blue_green_channels_dehazing_and
+_red_channel_correction/Valentine_192.png, id=659, 546.04pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/OutputImages/Blue_green_channels_dehazin
+g_and_red_channel_correction/Valentine_192.png Graphic file (type png)
+<use ../Underwater-Image-Enhancements/OutputImages/Blue_green_channels_dehazing
+_and_red_channel_correction/Valentine_192.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/OutputImages/Blue_gre
+en_channels_dehazing_and_red_channel_correction/Valentine_192.png  used on inpu
+t line 624.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 624--624
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/OutputImages/Color_Balance_and_fusion/Valenti
+ne_192.png, id=660, 546.04pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/OutputImages/Color_Balance_and_fusion/Va
+lentine_192.png Graphic file (type png)
+<use ../Underwater-Image-Enhancements/OutputImages/Color_Balance_and_fusion/Val
+entine_192.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/OutputImages/Color_Ba
+lance_and_fusion/Valentine_192.png  used on input line 624.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 624--624
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/OutputImages/Integrated_Color_Model/Valentine
+_192.png, id=661, 546.04pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/OutputImages/Integrated_Color_Model/Vale
+ntine_192.png Graphic file (type png)
+<use ../Underwater-Image-Enhancements/OutputImages/Integrated_Color_Model/Valen
+tine_192.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/OutputImages/Integrat
+ed_Color_Model/Valentine_192.png  used on input line 624.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 624--624
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/OutputImages/Low_Complexity_Enhancement_Based
+_on_Dark_Channel/Valentine_192.png, id=662, 546.04pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/OutputImages/Low_Complexity_Enhancement_
+Based_on_Dark_Channel/Valentine_192.png Graphic file (type png)
+<use ../Underwater-Image-Enhancements/OutputImages/Low_Complexity_Enhancement_B
+ased_on_Dark_Channel/Valentine_192.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/OutputImages/Low_Comp
+lexity_Enhancement_Based_on_Dark_Channel/Valentine_192.png  used on input line 
+624.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 624--624
+ []|[]| 
+ []
+
+File: ../Underwater-Image-Enhancements/InputImages/Valentine_193.png Graphic fi
+le (type png)
+<use ../Underwater-Image-Enhancements/InputImages/Valentine_193.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/InputImages/Valentine
+_193.png  used on input line 624.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 624--624
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/OutputImages/Blue_green_channels_dehazing_and
+_red_channel_correction/Valentine_193.png, id=663, 546.04pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/OutputImages/Blue_green_channels_dehazin
+g_and_red_channel_correction/Valentine_193.png Graphic file (type png)
+<use ../Underwater-Image-Enhancements/OutputImages/Blue_green_channels_dehazing
+_and_red_channel_correction/Valentine_193.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/OutputImages/Blue_gre
+en_channels_dehazing_and_red_channel_correction/Valentine_193.png  used on inpu
+t line 624.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 624--624
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/OutputImages/Color_Balance_and_fusion/Valenti
+ne_193.png, id=664, 546.04pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/OutputImages/Color_Balance_and_fusion/Va
+lentine_193.png Graphic file (type png)
+<use ../Underwater-Image-Enhancements/OutputImages/Color_Balance_and_fusion/Val
+entine_193.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/OutputImages/Color_Ba
+lance_and_fusion/Valentine_193.png  used on input line 624.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 624--624
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/OutputImages/Integrated_Color_Model/Valentine
+_193.png, id=665, 546.04pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/OutputImages/Integrated_Color_Model/Vale
+ntine_193.png Graphic file (type png)
+<use ../Underwater-Image-Enhancements/OutputImages/Integrated_Color_Model/Valen
+tine_193.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/OutputImages/Integrat
+ed_Color_Model/Valentine_193.png  used on input line 624.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 624--624
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/OutputImages/Low_Complexity_Enhancement_Based
+_on_Dark_Channel/Valentine_193.png, id=666, 546.04pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/OutputImages/Low_Complexity_Enhancement_
+Based_on_Dark_Channel/Valentine_193.png Graphic file (type png)
+<use ../Underwater-Image-Enhancements/OutputImages/Low_Complexity_Enhancement_B
+ased_on_Dark_Channel/Valentine_193.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/OutputImages/Low_Comp
+lexity_Enhancement_Based_on_Dark_Channel/Valentine_193.png  used on input line 
+624.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 624--624
+ []|[]| 
+ []
+
+File: ../Underwater-Image-Enhancements/InputImages/Valentine_194.png Graphic fi
+le (type png)
+<use ../Underwater-Image-Enhancements/InputImages/Valentine_194.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/InputImages/Valentine
+_194.png  used on input line 624.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 624--624
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/OutputImages/Blue_green_channels_dehazing_and
+_red_channel_correction/Valentine_194.png, id=667, 546.04pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/OutputImages/Blue_green_channels_dehazin
+g_and_red_channel_correction/Valentine_194.png Graphic file (type png)
+<use ../Underwater-Image-Enhancements/OutputImages/Blue_green_channels_dehazing
+_and_red_channel_correction/Valentine_194.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/OutputImages/Blue_gre
+en_channels_dehazing_and_red_channel_correction/Valentine_194.png  used on inpu
+t line 624.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 624--624
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/OutputImages/Color_Balance_and_fusion/Valenti
+ne_194.png, id=668, 546.04pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/OutputImages/Color_Balance_and_fusion/Va
+lentine_194.png Graphic file (type png)
+<use ../Underwater-Image-Enhancements/OutputImages/Color_Balance_and_fusion/Val
+entine_194.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/OutputImages/Color_Ba
+lance_and_fusion/Valentine_194.png  used on input line 624.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 624--624
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/OutputImages/Integrated_Color_Model/Valentine
+_194.png, id=669, 546.04pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/OutputImages/Integrated_Color_Model/Vale
+ntine_194.png Graphic file (type png)
+<use ../Underwater-Image-Enhancements/OutputImages/Integrated_Color_Model/Valen
+tine_194.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/OutputImages/Integrat
+ed_Color_Model/Valentine_194.png  used on input line 624.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 624--624
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/OutputImages/Low_Complexity_Enhancement_Based
+_on_Dark_Channel/Valentine_194.png, id=670, 546.04pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/OutputImages/Low_Complexity_Enhancement_
+Based_on_Dark_Channel/Valentine_194.png Graphic file (type png)
+<use ../Underwater-Image-Enhancements/OutputImages/Low_Complexity_Enhancement_B
+ased_on_Dark_Channel/Valentine_194.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/OutputImages/Low_Comp
+lexity_Enhancement_Based_on_Dark_Channel/Valentine_194.png  used on input line 
+624.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 624--624
+ []|[]| 
+ []
+
+File: ../Underwater-Image-Enhancements/InputImages/Valentine_195.png Graphic fi
+le (type png)
+<use ../Underwater-Image-Enhancements/InputImages/Valentine_195.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/InputImages/Valentine
+_195.png  used on input line 624.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 624--624
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/OutputImages/Blue_green_channels_dehazing_and
+_red_channel_correction/Valentine_195.png, id=671, 546.04pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/OutputImages/Blue_green_channels_dehazin
+g_and_red_channel_correction/Valentine_195.png Graphic file (type png)
+<use ../Underwater-Image-Enhancements/OutputImages/Blue_green_channels_dehazing
+_and_red_channel_correction/Valentine_195.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/OutputImages/Blue_gre
+en_channels_dehazing_and_red_channel_correction/Valentine_195.png  used on inpu
+t line 624.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 624--624
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/OutputImages/Color_Balance_and_fusion/Valenti
+ne_195.png, id=672, 546.04pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/OutputImages/Color_Balance_and_fusion/Va
+lentine_195.png Graphic file (type png)
+<use ../Underwater-Image-Enhancements/OutputImages/Color_Balance_and_fusion/Val
+entine_195.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/OutputImages/Color_Ba
+lance_and_fusion/Valentine_195.png  used on input line 624.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 624--624
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/OutputImages/Integrated_Color_Model/Valentine
+_195.png, id=673, 546.04pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/OutputImages/Integrated_Color_Model/Vale
+ntine_195.png Graphic file (type png)
+<use ../Underwater-Image-Enhancements/OutputImages/Integrated_Color_Model/Valen
+tine_195.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/OutputImages/Integrat
+ed_Color_Model/Valentine_195.png  used on input line 624.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 624--624
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/OutputImages/Low_Complexity_Enhancement_Based
+_on_Dark_Channel/Valentine_195.png, id=674, 546.04pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/OutputImages/Low_Complexity_Enhancement_
+Based_on_Dark_Channel/Valentine_195.png Graphic file (type png)
+<use ../Underwater-Image-Enhancements/OutputImages/Low_Complexity_Enhancement_B
+ased_on_Dark_Channel/Valentine_195.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/OutputImages/Low_Comp
+lexity_Enhancement_Based_on_Dark_Channel/Valentine_195.png  used on input line 
+624.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 624--624
+ []|[]| 
+ []
+
+File: ../Underwater-Image-Enhancements/InputImages/Valentine_196.png Graphic fi
+le (type png)
+<use ../Underwater-Image-Enhancements/InputImages/Valentine_196.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/InputImages/Valentine
+_196.png  used on input line 624.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 624--624
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/OutputImages/Blue_green_channels_dehazing_and
+_red_channel_correction/Valentine_196.png, id=675, 546.04pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/OutputImages/Blue_green_channels_dehazin
+g_and_red_channel_correction/Valentine_196.png Graphic file (type png)
+<use ../Underwater-Image-Enhancements/OutputImages/Blue_green_channels_dehazing
+_and_red_channel_correction/Valentine_196.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/OutputImages/Blue_gre
+en_channels_dehazing_and_red_channel_correction/Valentine_196.png  used on inpu
+t line 624.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 624--624
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/OutputImages/Color_Balance_and_fusion/Valenti
+ne_196.png, id=676, 546.04pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/OutputImages/Color_Balance_and_fusion/Va
+lentine_196.png Graphic file (type png)
+<use ../Underwater-Image-Enhancements/OutputImages/Color_Balance_and_fusion/Val
+entine_196.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/OutputImages/Color_Ba
+lance_and_fusion/Valentine_196.png  used on input line 624.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 624--624
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/OutputImages/Integrated_Color_Model/Valentine
+_196.png, id=677, 546.04pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/OutputImages/Integrated_Color_Model/Vale
+ntine_196.png Graphic file (type png)
+<use ../Underwater-Image-Enhancements/OutputImages/Integrated_Color_Model/Valen
+tine_196.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/OutputImages/Integrat
+ed_Color_Model/Valentine_196.png  used on input line 624.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 624--624
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/OutputImages/Low_Complexity_Enhancement_Based
+_on_Dark_Channel/Valentine_196.png, id=678, 546.04pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/OutputImages/Low_Complexity_Enhancement_
+Based_on_Dark_Channel/Valentine_196.png Graphic file (type png)
+<use ../Underwater-Image-Enhancements/OutputImages/Low_Complexity_Enhancement_B
+ased_on_Dark_Channel/Valentine_196.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/OutputImages/Low_Comp
+lexity_Enhancement_Based_on_Dark_Channel/Valentine_196.png  used on input line 
+624.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 624--624
+ []|[]| 
+ []
+
+File: ../Underwater-Image-Enhancements/InputImages/Valentine_197.png Graphic fi
+le (type png)
+<use ../Underwater-Image-Enhancements/InputImages/Valentine_197.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/InputImages/Valentine
+_197.png  used on input line 624.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 624--624
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/OutputImages/Blue_green_channels_dehazing_and
+_red_channel_correction/Valentine_197.png, id=679, 546.04pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/OutputImages/Blue_green_channels_dehazin
+g_and_red_channel_correction/Valentine_197.png Graphic file (type png)
+<use ../Underwater-Image-Enhancements/OutputImages/Blue_green_channels_dehazing
+_and_red_channel_correction/Valentine_197.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/OutputImages/Blue_gre
+en_channels_dehazing_and_red_channel_correction/Valentine_197.png  used on inpu
+t line 624.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 624--624
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/OutputImages/Color_Balance_and_fusion/Valenti
+ne_197.png, id=680, 546.04pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/OutputImages/Color_Balance_and_fusion/Va
+lentine_197.png Graphic file (type png)
+<use ../Underwater-Image-Enhancements/OutputImages/Color_Balance_and_fusion/Val
+entine_197.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/OutputImages/Color_Ba
+lance_and_fusion/Valentine_197.png  used on input line 624.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 624--624
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/OutputImages/Integrated_Color_Model/Valentine
+_197.png, id=681, 546.04pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/OutputImages/Integrated_Color_Model/Vale
+ntine_197.png Graphic file (type png)
+<use ../Underwater-Image-Enhancements/OutputImages/Integrated_Color_Model/Valen
+tine_197.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/OutputImages/Integrat
+ed_Color_Model/Valentine_197.png  used on input line 624.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 624--624
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/OutputImages/Low_Complexity_Enhancement_Based
+_on_Dark_Channel/Valentine_197.png, id=682, 546.04pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/OutputImages/Low_Complexity_Enhancement_
+Based_on_Dark_Channel/Valentine_197.png Graphic file (type png)
+<use ../Underwater-Image-Enhancements/OutputImages/Low_Complexity_Enhancement_B
+ased_on_Dark_Channel/Valentine_197.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/OutputImages/Low_Comp
+lexity_Enhancement_Based_on_Dark_Channel/Valentine_197.png  used on input line 
+624.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 624--624
+ []|[]| 
+ []
+
+[20 <../Underwater-Image-Enhancements/InputImages/Valentine_59.png> <../Underwa
+ter-Image-Enhancements/OutputImages/Blue_green_channels_dehazing_and_red_channe
+l_correction/Valentine_59.png (PNG copy)> <../Underwater-Image-Enhancements/Out
+putImages/Color_Balance_and_fusion/Valentine_59.png (PNG copy)> <../Underwater-
+Image-Enhancements/OutputImages/Integrated_Color_Model/Valentine_59.png (PNG co
+py)> <../Underwater-Image-Enhancements/OutputImages/Low_Complexity_Enhancement_
+Based_on_Dark_Channel/Valentine_59.png (PNG copy)> <../Underwater-Image-Enhance
+ments/OutputImages/Blue_green_channels_dehazing_and_red_channel_correction/Vale
+ntine_60.png (PNG copy)> <../Underwater-Image-Enhancements/OutputImages/Color_B
+alance_and_fusion/Valentine_60.png (PNG copy)> <../Underwater-Image-Enhancement
+s/OutputImages/Integrated_Color_Model/Valentine_60.png (PNG copy)> <../Underwat
+er-Image-Enhancements/OutputImages/Low_Complexity_Enhancement_Based_on_Dark_Cha
+nnel/Valentine_60.png (PNG copy)> <../Underwater-Image-Enhancements/InputImages
+/Valentine_61.png> <../Underwater-Image-Enhancements/OutputImages/Blue_green_ch
+annels_dehazing_and_red_channel_correction/Valentine_61.png (PNG copy)> <../Und
+erwater-Image-Enhancements/OutputImages/Color_Balance_and_fusion/Valentine_61.p
+ng (PNG copy)> <../Underwater-Image-Enhancements/OutputImages/Integrated_Color_
+Model/Valentine_61.png (PNG copy)> <../Underwater-Image-Enhancements/OutputImag
+es/Low_Complexity_Enhancement_Based_on_Dark_Channel/Valentine_61.png (PNG copy)
+> <../Underwater-Image-Enhancements/OutputImages/Blue_green_channels_dehazing_a
+nd_red_channel_correction/Valentine_62.png (PNG copy)> <../Underwater-Image-Enh
+ancements/OutputImages/Color_Balance_and_fusion/Valentine_62.png (PNG copy)> <.
+./Underwater-Image-Enhancements/OutputImages/Integrated_Color_Model/Valentine_6
+2.png (PNG copy)> <../Underwater-Image-Enhancements/OutputImages/Low_Complexity
+_Enhancement_Based_on_Dark_Channel/Valentine_62.png (PNG copy)> <../Underwater-
+Image-Enhancements/OutputImages/Blue_green_channels_dehazing_and_red_channel_co
+rrection/Valentine_63.png (PNG copy)> <../Underwater-Image-Enhancements/OutputI
+mages/Color_Balance_and_fusion/Valentine_63.png (PNG copy)> <../Underwater-Imag
+e-Enhancements/OutputImages/Integrated_Color_Model/Valentine_63.png (PNG copy)>
+ <../Underwater-Image-Enhancements/OutputImages/Low_Complexity_Enhancement_Base
+d_on_Dark_Channel/Valentine_63.png (PNG copy)>] [21 <../Underwater-Image-Enhanc
+ements/InputImages/Valentine_124.png> <../Underwater-Image-Enhancements/OutputI
+mages/Blue_green_channels_dehazing_and_red_channel_correction/Valentine_124.png
+ (PNG copy)> <../Underwater-Image-Enhancements/OutputImages/Color_Balance_and_f
+usion/Valentine_124.png (PNG copy)> <../Underwater-Image-Enhancements/OutputIma
+ges/Integrated_Color_Model/Valentine_124.png (PNG copy)> <../Underwater-Image-E
+nhancements/OutputImages/Low_Complexity_Enhancement_Based_on_Dark_Channel/Valen
+tine_124.png (PNG copy)> <../Underwater-Image-Enhancements/InputImages/Valentin
+e_125.png> <../Underwater-Image-Enhancements/OutputImages/Blue_green_channels_d
+ehazing_and_red_channel_correction/Valentine_125.png (PNG copy)> <../Underwater
+-Image-Enhancements/OutputImages/Color_Balance_and_fusion/Valentine_125.png (PN
+G copy)> <../Underwater-Image-Enhancements/OutputImages/Integrated_Color_Model/
+Valentine_125.png (PNG copy)> <../Underwater-Image-Enhancements/OutputImages/Lo
+w_Complexity_Enhancement_Based_on_Dark_Channel/Valentine_125.png (PNG copy)> <.
+./Underwater-Image-Enhancements/InputImages/Valentine_126.png> <../Underwater-I
+mage-Enhancements/OutputImages/Blue_green_channels_dehazing_and_red_channel_cor
+rection/Valentine_126.png (PNG copy)> <../Underwater-Image-Enhancements/OutputI
+mages/Color_Balance_and_fusion/Valentine_126.png (PNG copy)> <../Underwater-Ima
+ge-Enhancements/OutputImages/Integrated_Color_Model/Valentine_126.png (PNG copy
+)> <../Underwater-Image-Enhancements/OutputImages/Low_Complexity_Enhancement_Ba
+sed_on_Dark_Channel/Valentine_126.png (PNG copy)> <../Underwater-Image-Enhancem
+ents/InputImages/Valentine_127.png> <../Underwater-Image-Enhancements/OutputIma
+ges/Blue_green_channels_dehazing_and_red_channel_correction/Valentine_127.png (
+PNG copy)> <../Underwater-Image-Enhancements/OutputImages/Color_Balance_and_fus
+ion/Valentine_127.png (PNG copy)> <../Underwater-Image-Enhancements/OutputImage
+s/Integrated_Color_Model/Valentine_127.png (PNG copy)> <../Underwater-Image-Enh
+ancements/OutputImages/Low_Complexity_Enhancement_Based_on_Dark_Channel/Valenti
+ne_127.png (PNG copy)> <../Underwater-Image-Enhancements/InputImages/Valentine_
+128.png> <../Underwater-Image-Enhancements/OutputImages/Blue_green_channels_deh
+azing_and_red_channel_correction/Valentine_128.png (PNG copy)> <../Underwater-I
+mage-Enhancements/OutputImages/Color_Balance_and_fusion/Valentine_128.png (PNG 
+copy)> <../Underwater-Image-Enhancements/OutputImages/Integrated_Color_Model/Va
+lentine_128.png (PNG copy)> <../Underwater-Image-Enhancements/OutputImages/Low_
+Complexity_Enhancement_Based_on_Dark_Channel/Valentine_128.png (PNG copy)> <../
+Underwater-Image-Enhancements/OutputImages/Blue_green_channels_dehazing_and_red
+_channel_correction/Valentine_129.png (PNG copy)> <../Underwater-Image-Enhancem
+ents/OutputImages/Color_Balance_and_fusion/Valentine_129.png (PNG copy)> <../Un
+derwater-Image-Enhancements/OutputImages/Integrated_Color_Model/Valentine_129.p
+ng (PNG copy)> <../Underwater-Image-Enhancements/OutputImages/Low_Complexity_En
+hancement_Based_on_Dark_Channel/Valentine_129.png (PNG copy)> <../Underwater-Im
+age-Enhancements/OutputImages/Blue_green_channels_dehazing_and_red_channel_corr
+ection/Valentine_130.png (PNG copy)> <../Underwater-Image-Enhancements/OutputIm
+ages/Color_Balance_and_fusion/Valentine_130.png (PNG copy)> <../Underwater-Imag
+e-Enhancements/OutputImages/Integrated_Color_Model/Valentine_130.png (PNG copy)
+> <../Underwater-Image-Enhancements/OutputImages/Low_Complexity_Enhancement_Bas
+ed_on_Dark_Channel/Valentine_130.png (PNG copy)> <../Underwater-Image-Enhanceme
+nts/OutputImages/Blue_green_channels_dehazing_and_red_channel_correction/Valent
+ine_131.png (PNG copy)> <../Underwater-Image-Enhancements/OutputImages/Color_Ba
+lance_and_fusion/Valentine_131.png (PNG copy)> <../Underwater-Image-Enhancement
+s/OutputImages/Integrated_Color_Model/Valentine_131.png (PNG copy)> <../Underwa
+ter-Image-Enhancements/OutputImages/Low_Complexity_Enhancement_Based_on_Dark_Ch
+annel/Valentine_131.png (PNG copy)>]
+File: ../Underwater-Image-Enhancements/InputImages/Valentine_198.png Graphic fi
+le (type png)
+<use ../Underwater-Image-Enhancements/InputImages/Valentine_198.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/InputImages/Valentine
+_198.png  used on input line 646.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 646--646
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/OutputImages/Blue_green_channels_dehazing_and
+_red_channel_correction/Valentine_198.png, id=700, 546.04pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/OutputImages/Blue_green_channels_dehazin
+g_and_red_channel_correction/Valentine_198.png Graphic file (type png)
+<use ../Underwater-Image-Enhancements/OutputImages/Blue_green_channels_dehazing
+_and_red_channel_correction/Valentine_198.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/OutputImages/Blue_gre
+en_channels_dehazing_and_red_channel_correction/Valentine_198.png  used on inpu
+t line 646.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 646--646
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/OutputImages/Color_Balance_and_fusion/Valenti
+ne_198.png, id=701, 546.04pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/OutputImages/Color_Balance_and_fusion/Va
+lentine_198.png Graphic file (type png)
+<use ../Underwater-Image-Enhancements/OutputImages/Color_Balance_and_fusion/Val
+entine_198.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/OutputImages/Color_Ba
+lance_and_fusion/Valentine_198.png  used on input line 646.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 646--646
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/OutputImages/Integrated_Color_Model/Valentine
+_198.png, id=702, 546.04pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/OutputImages/Integrated_Color_Model/Vale
+ntine_198.png Graphic file (type png)
+<use ../Underwater-Image-Enhancements/OutputImages/Integrated_Color_Model/Valen
+tine_198.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/OutputImages/Integrat
+ed_Color_Model/Valentine_198.png  used on input line 646.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 646--646
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/OutputImages/Low_Complexity_Enhancement_Based
+_on_Dark_Channel/Valentine_198.png, id=703, 546.04pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/OutputImages/Low_Complexity_Enhancement_
+Based_on_Dark_Channel/Valentine_198.png Graphic file (type png)
+<use ../Underwater-Image-Enhancements/OutputImages/Low_Complexity_Enhancement_B
+ased_on_Dark_Channel/Valentine_198.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/OutputImages/Low_Comp
+lexity_Enhancement_Based_on_Dark_Channel/Valentine_198.png  used on input line 
+646.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 646--646
+ []|[]| 
+ []
+
+File: ../Underwater-Image-Enhancements/InputImages/Valentine_199.png Graphic fi
+le (type png)
+<use ../Underwater-Image-Enhancements/InputImages/Valentine_199.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/InputImages/Valentine
+_199.png  used on input line 646.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 646--646
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/OutputImages/Blue_green_channels_dehazing_and
+_red_channel_correction/Valentine_199.png, id=704, 546.04pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/OutputImages/Blue_green_channels_dehazin
+g_and_red_channel_correction/Valentine_199.png Graphic file (type png)
+<use ../Underwater-Image-Enhancements/OutputImages/Blue_green_channels_dehazing
+_and_red_channel_correction/Valentine_199.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/OutputImages/Blue_gre
+en_channels_dehazing_and_red_channel_correction/Valentine_199.png  used on inpu
+t line 646.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 646--646
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/OutputImages/Color_Balance_and_fusion/Valenti
+ne_199.png, id=705, 546.04pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/OutputImages/Color_Balance_and_fusion/Va
+lentine_199.png Graphic file (type png)
+<use ../Underwater-Image-Enhancements/OutputImages/Color_Balance_and_fusion/Val
+entine_199.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/OutputImages/Color_Ba
+lance_and_fusion/Valentine_199.png  used on input line 646.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 646--646
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/OutputImages/Integrated_Color_Model/Valentine
+_199.png, id=706, 546.04pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/OutputImages/Integrated_Color_Model/Vale
+ntine_199.png Graphic file (type png)
+<use ../Underwater-Image-Enhancements/OutputImages/Integrated_Color_Model/Valen
+tine_199.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/OutputImages/Integrat
+ed_Color_Model/Valentine_199.png  used on input line 646.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 646--646
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/OutputImages/Low_Complexity_Enhancement_Based
+_on_Dark_Channel/Valentine_199.png, id=707, 546.04pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/OutputImages/Low_Complexity_Enhancement_
+Based_on_Dark_Channel/Valentine_199.png Graphic file (type png)
+<use ../Underwater-Image-Enhancements/OutputImages/Low_Complexity_Enhancement_B
+ased_on_Dark_Channel/Valentine_199.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/OutputImages/Low_Comp
+lexity_Enhancement_Based_on_Dark_Channel/Valentine_199.png  used on input line 
+646.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 646--646
+ []|[]| 
+ []
+
+File: ../Underwater-Image-Enhancements/InputImages/Valentine_200.png Graphic fi
+le (type png)
+<use ../Underwater-Image-Enhancements/InputImages/Valentine_200.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/InputImages/Valentine
+_200.png  used on input line 646.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 646--646
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/OutputImages/Blue_green_channels_dehazing_and
+_red_channel_correction/Valentine_200.png, id=708, 546.04pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/OutputImages/Blue_green_channels_dehazin
+g_and_red_channel_correction/Valentine_200.png Graphic file (type png)
+<use ../Underwater-Image-Enhancements/OutputImages/Blue_green_channels_dehazing
+_and_red_channel_correction/Valentine_200.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/OutputImages/Blue_gre
+en_channels_dehazing_and_red_channel_correction/Valentine_200.png  used on inpu
+t line 646.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 646--646
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/OutputImages/Color_Balance_and_fusion/Valenti
+ne_200.png, id=709, 546.04pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/OutputImages/Color_Balance_and_fusion/Va
+lentine_200.png Graphic file (type png)
+<use ../Underwater-Image-Enhancements/OutputImages/Color_Balance_and_fusion/Val
+entine_200.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/OutputImages/Color_Ba
+lance_and_fusion/Valentine_200.png  used on input line 646.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 646--646
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/OutputImages/Integrated_Color_Model/Valentine
+_200.png, id=710, 546.04pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/OutputImages/Integrated_Color_Model/Vale
+ntine_200.png Graphic file (type png)
+<use ../Underwater-Image-Enhancements/OutputImages/Integrated_Color_Model/Valen
+tine_200.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/OutputImages/Integrat
+ed_Color_Model/Valentine_200.png  used on input line 646.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 646--646
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/OutputImages/Low_Complexity_Enhancement_Based
+_on_Dark_Channel/Valentine_200.png, id=711, 546.04pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/OutputImages/Low_Complexity_Enhancement_
+Based_on_Dark_Channel/Valentine_200.png Graphic file (type png)
+<use ../Underwater-Image-Enhancements/OutputImages/Low_Complexity_Enhancement_B
+ased_on_Dark_Channel/Valentine_200.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/OutputImages/Low_Comp
+lexity_Enhancement_Based_on_Dark_Channel/Valentine_200.png  used on input line 
+646.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 646--646
+ []|[]| 
+ []
+
+File: ../Underwater-Image-Enhancements/InputImages/Valentine_201.png Graphic fi
+le (type png)
+<use ../Underwater-Image-Enhancements/InputImages/Valentine_201.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/InputImages/Valentine
+_201.png  used on input line 646.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 646--646
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/OutputImages/Blue_green_channels_dehazing_and
+_red_channel_correction/Valentine_201.png, id=712, 546.04pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/OutputImages/Blue_green_channels_dehazin
+g_and_red_channel_correction/Valentine_201.png Graphic file (type png)
+<use ../Underwater-Image-Enhancements/OutputImages/Blue_green_channels_dehazing
+_and_red_channel_correction/Valentine_201.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/OutputImages/Blue_gre
+en_channels_dehazing_and_red_channel_correction/Valentine_201.png  used on inpu
+t line 646.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 646--646
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/OutputImages/Color_Balance_and_fusion/Valenti
+ne_201.png, id=713, 546.04pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/OutputImages/Color_Balance_and_fusion/Va
+lentine_201.png Graphic file (type png)
+<use ../Underwater-Image-Enhancements/OutputImages/Color_Balance_and_fusion/Val
+entine_201.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/OutputImages/Color_Ba
+lance_and_fusion/Valentine_201.png  used on input line 646.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 646--646
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/OutputImages/Integrated_Color_Model/Valentine
+_201.png, id=714, 546.04pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/OutputImages/Integrated_Color_Model/Vale
+ntine_201.png Graphic file (type png)
+<use ../Underwater-Image-Enhancements/OutputImages/Integrated_Color_Model/Valen
+tine_201.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/OutputImages/Integrat
+ed_Color_Model/Valentine_201.png  used on input line 646.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 646--646
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/OutputImages/Low_Complexity_Enhancement_Based
+_on_Dark_Channel/Valentine_201.png, id=715, 546.04pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/OutputImages/Low_Complexity_Enhancement_
+Based_on_Dark_Channel/Valentine_201.png Graphic file (type png)
+<use ../Underwater-Image-Enhancements/OutputImages/Low_Complexity_Enhancement_B
+ased_on_Dark_Channel/Valentine_201.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/OutputImages/Low_Comp
+lexity_Enhancement_Based_on_Dark_Channel/Valentine_201.png  used on input line 
+646.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 646--646
+ []|[]| 
+ []
+
+File: ../Underwater-Image-Enhancements/InputImages/Valentine_202.png Graphic fi
+le (type png)
+<use ../Underwater-Image-Enhancements/InputImages/Valentine_202.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/InputImages/Valentine
+_202.png  used on input line 646.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 646--646
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/OutputImages/Blue_green_channels_dehazing_and
+_red_channel_correction/Valentine_202.png, id=716, 546.04pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/OutputImages/Blue_green_channels_dehazin
+g_and_red_channel_correction/Valentine_202.png Graphic file (type png)
+<use ../Underwater-Image-Enhancements/OutputImages/Blue_green_channels_dehazing
+_and_red_channel_correction/Valentine_202.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/OutputImages/Blue_gre
+en_channels_dehazing_and_red_channel_correction/Valentine_202.png  used on inpu
+t line 646.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 646--646
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/OutputImages/Color_Balance_and_fusion/Valenti
+ne_202.png, id=717, 546.04pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/OutputImages/Color_Balance_and_fusion/Va
+lentine_202.png Graphic file (type png)
+<use ../Underwater-Image-Enhancements/OutputImages/Color_Balance_and_fusion/Val
+entine_202.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/OutputImages/Color_Ba
+lance_and_fusion/Valentine_202.png  used on input line 646.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 646--646
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/OutputImages/Integrated_Color_Model/Valentine
+_202.png, id=718, 546.04pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/OutputImages/Integrated_Color_Model/Vale
+ntine_202.png Graphic file (type png)
+<use ../Underwater-Image-Enhancements/OutputImages/Integrated_Color_Model/Valen
+tine_202.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/OutputImages/Integrat
+ed_Color_Model/Valentine_202.png  used on input line 646.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 646--646
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/OutputImages/Low_Complexity_Enhancement_Based
+_on_Dark_Channel/Valentine_202.png, id=719, 546.04pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/OutputImages/Low_Complexity_Enhancement_
+Based_on_Dark_Channel/Valentine_202.png Graphic file (type png)
+<use ../Underwater-Image-Enhancements/OutputImages/Low_Complexity_Enhancement_B
+ased_on_Dark_Channel/Valentine_202.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/OutputImages/Low_Comp
+lexity_Enhancement_Based_on_Dark_Channel/Valentine_202.png  used on input line 
+646.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 646--646
+ []|[]| 
+ []
+
+File: ../Underwater-Image-Enhancements/InputImages/Valentine_203.png Graphic fi
+le (type png)
+<use ../Underwater-Image-Enhancements/InputImages/Valentine_203.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/InputImages/Valentine
+_203.png  used on input line 646.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 646--646
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/OutputImages/Blue_green_channels_dehazing_and
+_red_channel_correction/Valentine_203.png, id=720, 546.04pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/OutputImages/Blue_green_channels_dehazin
+g_and_red_channel_correction/Valentine_203.png Graphic file (type png)
+<use ../Underwater-Image-Enhancements/OutputImages/Blue_green_channels_dehazing
+_and_red_channel_correction/Valentine_203.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/OutputImages/Blue_gre
+en_channels_dehazing_and_red_channel_correction/Valentine_203.png  used on inpu
+t line 646.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 646--646
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/OutputImages/Color_Balance_and_fusion/Valenti
+ne_203.png, id=721, 546.04pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/OutputImages/Color_Balance_and_fusion/Va
+lentine_203.png Graphic file (type png)
+<use ../Underwater-Image-Enhancements/OutputImages/Color_Balance_and_fusion/Val
+entine_203.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/OutputImages/Color_Ba
+lance_and_fusion/Valentine_203.png  used on input line 646.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 646--646
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/OutputImages/Integrated_Color_Model/Valentine
+_203.png, id=722, 546.04pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/OutputImages/Integrated_Color_Model/Vale
+ntine_203.png Graphic file (type png)
+<use ../Underwater-Image-Enhancements/OutputImages/Integrated_Color_Model/Valen
+tine_203.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/OutputImages/Integrat
+ed_Color_Model/Valentine_203.png  used on input line 646.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 646--646
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/OutputImages/Low_Complexity_Enhancement_Based
+_on_Dark_Channel/Valentine_203.png, id=723, 546.04pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/OutputImages/Low_Complexity_Enhancement_
+Based_on_Dark_Channel/Valentine_203.png Graphic file (type png)
+<use ../Underwater-Image-Enhancements/OutputImages/Low_Complexity_Enhancement_B
+ased_on_Dark_Channel/Valentine_203.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/OutputImages/Low_Comp
+lexity_Enhancement_Based_on_Dark_Channel/Valentine_203.png  used on input line 
+646.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 646--646
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/InputImages/Valentine_204.png, id=724, 546.04
+pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/InputImages/Valentine_204.png Graphic fi
+le (type png)
+<use ../Underwater-Image-Enhancements/InputImages/Valentine_204.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/InputImages/Valentine
+_204.png  used on input line 646.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 646--646
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/OutputImages/Blue_green_channels_dehazing_and
+_red_channel_correction/Valentine_204.png, id=725, 546.04pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/OutputImages/Blue_green_channels_dehazin
+g_and_red_channel_correction/Valentine_204.png Graphic file (type png)
+<use ../Underwater-Image-Enhancements/OutputImages/Blue_green_channels_dehazing
+_and_red_channel_correction/Valentine_204.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/OutputImages/Blue_gre
+en_channels_dehazing_and_red_channel_correction/Valentine_204.png  used on inpu
+t line 646.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 646--646
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/OutputImages/Color_Balance_and_fusion/Valenti
+ne_204.png, id=726, 546.04pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/OutputImages/Color_Balance_and_fusion/Va
+lentine_204.png Graphic file (type png)
+<use ../Underwater-Image-Enhancements/OutputImages/Color_Balance_and_fusion/Val
+entine_204.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/OutputImages/Color_Ba
+lance_and_fusion/Valentine_204.png  used on input line 646.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 646--646
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/OutputImages/Integrated_Color_Model/Valentine
+_204.png, id=727, 546.04pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/OutputImages/Integrated_Color_Model/Vale
+ntine_204.png Graphic file (type png)
+<use ../Underwater-Image-Enhancements/OutputImages/Integrated_Color_Model/Valen
+tine_204.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/OutputImages/Integrat
+ed_Color_Model/Valentine_204.png  used on input line 646.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 646--646
+ []|[]| 
+ []
+
+<../Underwater-Image-Enhancements/OutputImages/Low_Complexity_Enhancement_Based
+_on_Dark_Channel/Valentine_204.png, id=728, 546.04pt x 413.545pt>
+File: ../Underwater-Image-Enhancements/OutputImages/Low_Complexity_Enhancement_
+Based_on_Dark_Channel/Valentine_204.png Graphic file (type png)
+<use ../Underwater-Image-Enhancements/OutputImages/Low_Complexity_Enhancement_B
+ased_on_Dark_Channel/Valentine_204.png>
+Package pdftex.def Info: ../Underwater-Image-Enhancements/OutputImages/Low_Comp
+lexity_Enhancement_Based_on_Dark_Channel/Valentine_204.png  used on input line 
+646.
+(pdftex.def)             Requested size: 109.20605pt x 82.70752pt.
+
+Overfull \hbox (19.58005pt too wide) in paragraph at lines 646--646
+ []|[]| 
+ []
+
+[22 <../Underwater-Image-Enhancements/InputImages/Valentine_190.png> <../Underw
+ater-Image-Enhancements/OutputImages/Blue_green_channels_dehazing_and_red_chann
+el_correction/Valentine_190.png (PNG copy)> <../Underwater-Image-Enhancements/O
+utputImages/Color_Balance_and_fusion/Valentine_190.png (PNG copy)> <../Underwat
+er-Image-Enhancements/OutputImages/Integrated_Color_Model/Valentine_190.png (PN
+G copy)> <../Underwater-Image-Enhancements/OutputImages/Low_Complexity_Enhancem
+ent_Based_on_Dark_Channel/Valentine_190.png (PNG copy)> <../Underwater-Image-En
+hancements/InputImages/Valentine_191.png> <../Underwater-Image-Enhancements/Out
+putImages/Blue_green_channels_dehazing_and_red_channel_correction/Valentine_191
+.png (PNG copy)> <../Underwater-Image-Enhancements/OutputImages/Color_Balance_a
+nd_fusion/Valentine_191.png (PNG copy)> <../Underwater-Image-Enhancements/Outpu
+tImages/Integrated_Color_Model/Valentine_191.png (PNG copy)> <../Underwater-Ima
+ge-Enhancements/OutputImages/Low_Complexity_Enhancement_Based_on_Dark_Channel/V
+alentine_191.png (PNG copy)> <../Underwater-Image-Enhancements/OutputImages/Blu
+e_green_channels_dehazing_and_red_channel_correction/Valentine_192.png (PNG cop
+y)> <../Underwater-Image-Enhancements/OutputImages/Color_Balance_and_fusion/Val
+entine_192.png (PNG copy)> <../Underwater-Image-Enhancements/OutputImages/Integ
+rated_Color_Model/Valentine_192.png (PNG copy)> <../Underwater-Image-Enhancemen
+ts/OutputImages/Low_Complexity_Enhancement_Based_on_Dark_Channel/Valentine_192.
+png (PNG copy)> <../Underwater-Image-Enhancements/OutputImages/Blue_green_chann
+els_dehazing_and_red_channel_correction/Valentine_193.png (PNG copy)> <../Under
+water-Image-Enhancements/OutputImages/Color_Balance_and_fusion/Valentine_193.pn
+g (PNG copy)> <../Underwater-Image-Enhancements/OutputImages/Integrated_Color_M
+odel/Valentine_193.png (PNG copy)> <../Underwater-Image-Enhancements/OutputImag
+es/Low_Complexity_Enhancement_Based_on_Dark_Channel/Valentine_193.png (PNG copy
+)> <../Underwater-Image-Enhancements/OutputImages/Blue_green_channels_dehazing_
+and_red_channel_correction/Valentine_194.png (PNG copy)> <../Underwater-Image-E
+nhancements/OutputImages/Color_Balance_and_fusion/Valentine_194.png (PNG copy)>
+ <../Underwater-Image-Enhancements/OutputImages/Integrated_Color_Model/Valentin
+e_194.png (PNG copy)> <../Underwater-Image-Enhancements/OutputImages/Low_Comple
+xity_Enhancement_Based_on_Dark_Channel/Valentine_194.png (PNG copy)> <../Underw
+ater-Image-Enhancements/OutputImages/Blue_green_channels_dehazing_and_red_chann
+el_correction/Valentine_195.png (PNG copy)> <../Underwater-Image-Enhancements/O
+utputImages/Color_Balance_and_fusion/Valentine_195.png (PNG copy)> <../Underwat
+er-Image-Enhancements/OutputImages/Integrated_Color_Model/Valentine_195.png (PN
+G copy)> <../Underwater-Image-Enhancements/OutputImages/Low_Complexity_Enhancem
+ent_Based_on_Dark_Channel/Valentine_195.png (PNG copy)> <../Underwater-Image-En
+hancements/OutputImages/Blue_green_channels_dehazing_and_red_channel_correction
+/Valentine_196.png (PNG copy)> <../Underwater-Image-Enhancements/OutputImages/C
+olor_Balance_and_fusion/Valentine_196.png (PNG copy)> <../Underwater-Image-Enha
+ncements/OutputImages/Integrated_Color_Model/Valentine_196.png (PNG copy)> <../
+Underwater-Image-Enhancements/OutputImages/Low_Complexity_Enhancement_Based_on_
+Dark_Channel/Valentine_196.png (PNG copy)> <../Underwater-Image-Enhancements/Ou
+tputImages/Blue_green_channels_dehazing_and_red_channel_correction/Valentine_19
+7.png (PNG copy)> <../Underwater-Image-Enhancements/OutputImages/Color_Balance_
+and_fusion/Valentine_197.png (PNG copy)> <../Underwater-Image-Enhancements/Outp
+utImages/Integrated_Color_Model/Valentine_197.png (PNG copy)> <../Underwater-Im
+age-Enhancements/OutputImages/Low_Complexity_Enhancement_Based_on_Dark_Channel/
+Valentine_197.png (PNG copy)>] [23 <../Underwater-Image-Enhancements/OutputImag
+es/Blue_green_channels_dehazing_and_red_channel_correction/Valentine_198.png (P
+NG copy)> <../Underwater-Image-Enhancements/OutputImages/Color_Balance_and_fusi
+on/Valentine_198.png (PNG copy)> <../Underwater-Image-Enhancements/OutputImages
+/Integrated_Color_Model/Valentine_198.png (PNG copy)> <../Underwater-Image-Enha
+ncements/OutputImages/Low_Complexity_Enhancement_Based_on_Dark_Channel/Valentin
+e_198.png (PNG copy)> <../Underwater-Image-Enhancements/OutputImages/Blue_green
+_channels_dehazing_and_red_channel_correction/Valentine_199.png (PNG copy)> <..
+/Underwater-Image-Enhancements/OutputImages/Color_Balance_and_fusion/Valentine_
+199.png (PNG copy)> <../Underwater-Image-Enhancements/OutputImages/Integrated_C
+olor_Model/Valentine_199.png (PNG copy)> <../Underwater-Image-Enhancements/Outp
+utImages/Low_Complexity_Enhancement_Based_on_Dark_Channel/Valentine_199.png (PN
+G copy)> <../Underwater-Image-Enhancements/OutputImages/Blue_green_channels_deh
+azing_and_red_channel_correction/Valentine_200.png (PNG copy)> <../Underwater-I
+mage-Enhancements/OutputImages/Color_Balance_and_fusion/Valentine_200.png (PNG 
+copy)> <../Underwater-Image-Enhancements/OutputImages/Integrated_Color_Model/Va
+lentine_200.png (PNG copy)> <../Underwater-Image-Enhancements/OutputImages/Low_
+Complexity_Enhancement_Based_on_Dark_Channel/Valentine_200.png (PNG copy)> <../
+Underwater-Image-Enhancements/OutputImages/Blue_green_channels_dehazing_and_red
+_channel_correction/Valentine_201.png (PNG copy)> <../Underwater-Image-Enhancem
+ents/OutputImages/Color_Balance_and_fusion/Valentine_201.png (PNG copy)> <../Un
+derwater-Image-Enhancements/OutputImages/Integrated_Color_Model/Valentine_201.p
+ng (PNG copy)> <../Underwater-Image-Enhancements/OutputImages/Low_Complexity_En
+hancement_Based_on_Dark_Channel/Valentine_201.png (PNG copy)> <../Underwater-Im
+age-Enhancements/OutputImages/Blue_green_channels_dehazing_and_red_channel_corr
+ection/Valentine_202.png (PNG copy)> <../Underwater-Image-Enhancements/OutputIm
+ages/Color_Balance_and_fusion/Valentine_202.png (PNG copy)> <../Underwater-Imag
+e-Enhancements/OutputImages/Integrated_Color_Model/Valentine_202.png (PNG copy)
+> <../Underwater-Image-Enhancements/OutputImages/Low_Complexity_Enhancement_Bas
+ed_on_Dark_Channel/Valentine_202.png (PNG copy)> <../Underwater-Image-Enhanceme
+nts/OutputImages/Blue_green_channels_dehazing_and_red_channel_correction/Valent
+ine_203.png (PNG copy)> <../Underwater-Image-Enhancements/OutputImages/Color_Ba
+lance_and_fusion/Valentine_203.png (PNG copy)> <../Underwater-Image-Enhancement
+s/OutputImages/Integrated_Color_Model/Valentine_203.png (PNG copy)> <../Underwa
+ter-Image-Enhancements/OutputImages/Low_Complexity_Enhancement_Based_on_Dark_Ch
+annel/Valentine_203.png (PNG copy)> <../Underwater-Image-Enhancements/InputImag
+es/Valentine_204.png> <../Underwater-Image-Enhancements/OutputImages/Blue_green
+_channels_dehazing_and_red_channel_correction/Valentine_204.png (PNG copy)> <..
+/Underwater-Image-Enhancements/OutputImages/Color_Balance_and_fusion/Valentine_
+204.png (PNG copy)> <../Underwater-Image-Enhancements/OutputImages/Integrated_C
+olor_Model/Valentine_204.png (PNG copy)> <../Underwater-Image-Enhancements/Outp
+utImages/Low_Complexity_Enhancement_Based_on_Dark_Channel/Valentine_204.png (PN
+G copy)>]
+<box.png, id=759, 1102.1175pt x 527.9725pt>
+File: box.png Graphic file (type png)
+<use box.png>
+Package pdftex.def Info: box.png  used on input line 657.
+(pdftex.def)             Requested size: 426.79135pt x 204.45833pt.
+<box1.png, id=761, 1102.1175pt x 536.0025pt>
+File: box1.png Graphic file (type png)
+<use box1.png>
+Package pdftex.def Info: box1.png  used on input line 665.
+(pdftex.def)             Requested size: 426.79135pt x 207.56796pt.
+ [24 <./box.png>]
+<line_graph_UCIQE_1.png, id=789, 591.8913pt x 534.798pt>
+File: line_graph_UCIQE_1.png Graphic file (type png)
+<use line_graph_UCIQE_1.png>
+Package pdftex.def Info: line_graph_UCIQE_1.png  used on input line 678.
+(pdftex.def)             Requested size: 426.79135pt x 385.62549pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 670--682
+
+ []
+
+<line_graph_UIQM_1.png, id=794, 591.8913pt x 534.798pt>
+File: line_graph_UIQM_1.png Graphic file (type png)
+<use line_graph_UIQM_1.png>
+Package pdftex.def Info: line_graph_UIQM_1.png  used on input line 685.
+(pdftex.def)             Requested size: 426.79135pt x 385.62549pt.
+[25 <./box1.png>] [26 <./line_graph_UCIQE_1.png>]
+<line_graph_UCIQE.png, id=813, 591.8913pt x 534.798pt>
+File: line_graph_UCIQE.png Graphic file (type png)
+<use line_graph_UCIQE.png>
+Package pdftex.def Info: line_graph_UCIQE.png  used on input line 693.
+(pdftex.def)             Requested size: 426.79135pt x 385.62549pt.
+<line_graph_UIQM.png, id=822, 591.8913pt x 534.798pt>
+File: line_graph_UIQM.png Graphic file (type png)
+<use line_graph_UIQM.png>
+Package pdftex.def Info: line_graph_UIQM.png  used on input line 700.
+(pdftex.def)             Requested size: 426.79135pt x 385.62549pt.
+ [27 <./line_graph_UIQM_1.png>] [28 <./line_graph_UCIQE.png>] [29 <./line_graph
+_UIQM.png>] [30]
+Underfull \hbox (badness 10000) in paragraph at lines 717--723
+
+ []
+
+
+Overfull \hbox (6.47319pt too wide) in paragraph at lines 717--723
+\OT1/phv/m/n/10.95 The source code and the im-ages can be found in [][]https://
+github.com/ashray-00/Underwater-
+ []
+
+[31]
 LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <10.95> not available
-(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 431.
- [17] [18]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 433.
- [19]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 433.
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 727.
+ [32] [33]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 729.
+ [34]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 729.
  (./thesis.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 433.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 433.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 729.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 729.
 Package rerunfilecheck Info: File `thesis.out' has not changed.
-(rerunfilecheck)             Checksum: 1727ECC349E830D37648444A90923F54;859.
+(rerunfilecheck)             Checksum: 80B1F0097FE81BC38B43FBA9001BFCF1;1132.
 Package logreq Info: Writing requests to 'thesis.run.xml'.
 \openout1 = `thesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 16854 strings out of 481239
- 285250 string characters out of 5920377
- 781637 words of memory out of 5000000
- 31742 multiletter control sequences out of 15000+600000
+ 19300 strings out of 481239
+ 388887 string characters out of 5920377
+ 815508 words of memory out of 5000000
+ 34063 multiletter control sequences out of 15000+600000
  571029 words of font info for 100 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,11n,49p,1899b,2804s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 41i,18n,50p,1949b,2818s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/share/texliv
 e/texmf-dist/fonts/enc/dvips/arev/arevot1.enc}{/usr/share/texlive/texmf-dist/fo
 nts/enc/dvips/arev/arevoms.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/a
@@ -1387,10 +4209,10 @@ hare/texlive/texmf-dist/fonts/type1/public/mathdesign/mdbch/md-chr7v.pfb></usr/
 share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texliv
 e/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-dist
 /fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on thesis.pdf (22 pages, 2178783 bytes).
+Output written on thesis.pdf (38 pages, 58506496 bytes).
 PDF statistics:
- 498 PDF objects out of 1000 (max. 8388607)
- 447 compressed objects within 5 object streams
- 71 named destinations out of 1000 (max. 500000)
- 106 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 998 PDF objects out of 1000 (max. 8388607)
+ 711 compressed objects within 8 object streams
+ 125 named destinations out of 1000 (max. 500000)
+ 985 words of extra memory for PDF output out of 10000 (max. 10000000)
 
